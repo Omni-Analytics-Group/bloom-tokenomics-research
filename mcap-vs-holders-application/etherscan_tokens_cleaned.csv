@@ -1,0 +1,977 @@
+Name,Ticker,Description,Change (%),Volume (24H),Market Cap,Holders,PriceETH,PriceBTC,PriceUSD
+Tether USD,USDT,Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent.,0.44,193841713896,57921308915,3398698,2.45e-4,2e-5,0.9997
+Livepeer Token,LPT,A decentralized video streaming protocol that empowers developers to build video enabled applications backed by a competitive market of economically incentivized service providers.,4.2,16404637,822173357,2545830,0.008535000000000001,6.889999999999999e-4,34.760000000000005
+CarLive Chain,IOV,CarLive Chain is a vertical application of blockchain technology in the field of vehicle networking. It provides services to 1.3 billion vehicle users worldwide and the trillion-dollar-scale automobile consumer market.,74.48,410,5274685,1845150,0,0,8e-4
+USD Coin,USDC,"USDC is a fully collateralized US Dollar stablecoin developed by CENTRE, the open source project with Circle being the first of several forthcoming issuers.",-0.03,3966225747,16274274780,930718,2.45e-4,2e-5,0.9983
+XENON,XNN,"Xenon, an alternative blockchain forked from the EOS project,",NA,0,619,746566,0,0,0
+OMG Network,OMG,OmiseGO (OMG) is a public Ethereum-based financial technology for use in mainstream digital wallets,13.84,653136876,1471652877,695884,0.0025610000000000003,2.0700000000000002e-4,10.43
+ChainLink Token,LINK,"A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments.",13.239999999999998,2229937246,19861139846,529108,0.011385,9.19e-4,46.37
+VIN,VIN,"Complete vehicle data all in one marketplace - making automotive more secure, transparent and accessible by all",44.449999999999996,283344,3122174,478880,1e-6,0,0.0053
+DATAcoin,DATA,Streamr is building the world’s leading Marketplace and decentralised Network for real-time data.,9.9,8610486,94826301,450869,3.3e-5,3e-6,0.1358
+BAT,BAT,The Basic Attention Token is the new token for the digital advertising industry.,7.24,361256558,1848730061,415596,3.0199999999999997e-4,2.4e-5,1.23
+Dai Stablecoin,DAI,"Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate.",0.15000000000000002,1355522234,4595584267,378754,2.46e-4,2e-5,1
+Amber,AMB,"Combining high-tech sensors, blockchain protocol and smart contracts, we are building a universally verifiable, community-driven ecosystem to assure the quality, safety & origins of products.",9.01,1161520,10356201,376516,1.8e-5,1e-6,0.0714
+UCASH,UCASH,"Aims to build a global network of retail and individual converters providing cash to digital conversions to and from our ecosystem, helping people worldwide to unbank.",-37.339999999999996,0,3517396,319072,0,0,3e-4
+BNB,BNB,"Binance aims to build a world-class crypto exchange, powering the future
+of crypto finance.",8.860000000000001,4667437282,93553373175,315536,0.14790000000000003,0.011933,602.37
+GSENetwork,GSE,,-4.53,8682,1345065,305895,0,0,1e-4
+Uniswap,UNI,"UNI token served as governance token for Uniswap protocol with 1 billion UNI have been minted at genesis. 60% of the UNI genesis supply is allocated to Uniswap community members and remaining for team, investors and advisors.",11.15,1041866446,20847879629,244656,0.009826,7.93e-4,40.02
+OCoin,OCN,ODYSSEY’s mission is to build the next-generation decentralized sharing economy & Peer to Peer Ecosystem.,8.29,1679075,13428379,235356,0,0,0.0013
+Compound USD Coin,cUSDC,"Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.",-0.33999999999999997,393810372,3987407736,218808,5e-6,0,0.022
+HEX,HEX,"HEX.com averages 25% APY interest recently. HEX virtually lends value from stakers to non-stakers as staking reduces supply. The launch ends Nov. 19th, 2020 when HEX stakers get credited ~200B HEX. HEX's total supply is now ~350B. Audited 3 times, 2 security, and 1 economics.",-0.31,38448028,11048443112,211241,1.6000000000000003e-5,1e-6,0.0637
+ZRX,ZRX,"0x is an open, permissionless protocol allowing for tokens to be traded on the Ethereum blockchain.",10.68,296973827,1436007583,185407,4.1700000000000005e-4,3.4e-5,1.7
+Sai Stablecoin v1.0,SAI,"Sai is an asset-backed, hard currency for the 21st century. The first decentralized stablecoin on the Ethereum blockchain.",39.97,67606,89932395,178232,0.006213999999999999,5.01e-4,25.310000000000002
+Maximine Coin,MXM,A Transparent Distributed Pool Revenue System,NA,71,378241,170635,0,0,1e-4
+Compound,COMP,Compound governance token,5.56,314346471,4066303776,163047,0.194192,0.015667,790.91
+EthLend,LEND,"Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets. It also features access to highly innovative flash loans, which let developers borrow instantly and easily; no collateral needed. With 16 different assets, 5 of which are stablecoins.",22.64,195357,351855695,146853,0.0014659999999999999,1.1800000000000001e-4,5.970000000000001
+XMAX,XMX,Blockchain Game Development Ecosystem,2.9899999999999998,1304138,16239394,146080,0,0,6e-4
+Decentralized Accessible Content Chain,DACC,Decentralized Accessible Content Chain (DACC) is a platform that will revolutionize the digital content and media industry.,80.03,1154144,4041030,143805,0,0,3e-4
+FTI,FTI,FTI is an official encrypted digital currency in the FansTime ecosystem based on the launch of FansTime Chain.,23.72,3713703,4554082,141299,0,0,7e-4
+ElectrifyAsia,ELEC,ELECTRIFY aims to be a retail electricity marketplace in Southeast-Asia addressing the need for transparency and security in the consumption of energy,18.04,90240,2106200,127370,1e-6,0,0.0039
+IONChain Token,IONC,"Through IONChain Protocol, IONChain will serve as the link between IoT devices, supporting decentralized peer-to-peer application interaction between devices.",NA,21420,2285052,123510,1e-6,0,0.0053
+realchain,RCT,Real chain providing authentication services to the public to reduce fraud in the transaction of consumer goods and collectibles.,NA,4893,92661,123432,0,0,2e-4
+Gifto,GTO,Decentralized Universal Gifting Protocol.,13.629999999999999,11653370,41146019,121883,1.5000000000000002e-5,1e-6,0.0616
+LiteXToken,LXT,LITEX is a completely decentralized payment ecosystem for cryptocurrency.,1.47,2190448,5380081,121139,1e-6,0,0.004
+EnjinCoin,ENJ,Customizable cryptocurrency and virtual goods platform for gaming.,7.659999999999999,180487658,1994184194,119461,5.23e-4,4.2000000000000004e-5,2.13
+Olive,OLE,"Olive is a live streaming platform that provides a blockchain solution
+to the anchor and the audience and allows better utilization
+of internet resources and rewards",NA,0,482970,113832,0,0,0.0017000000000000001
+IG,IG,"An unprecedented prediction market of based decentralization network. High centralization hinders social progress. Therefore, we hope to establish a completely decentralized Consensus Prediction System, and everyone's weight is equal.",12.8,1223718,142661,112497,0,0,0
+Morpheus Infrastructure Token,MITx,"Morpheus Labs Blockchain Platform as a Service (BPaaS) simplifies and expedites your blockchain
+application development and gives you the flexibility to choose between available programming
+languages and blockchain runtimes that better suit your needs.",9.31,2743984,38939969,111693,2.2000000000000003e-5,2e-6,0.0894
+Paxos Standard,PAX,"Paxos Standard is regulated crypto asset fully collateralized 1:1 by the U.S. dollar, approved and regulated by the NYDFS.",0.06,98581395,1171639524,109001,2.45e-4,2e-5,0.9977
+NaviToken,NAVI,Naviaddress is a unified digital ID for any place and object.,18.830000000000002,8850,36869,108820,0,0,2e-4
+ThingsOpreatingSystem,TOS,Decentralized layered block network Technology based on SDAG.,17.810000000000002,586002,2863087,108099,1e-6,0,0.0036
+Six Domain Asset,SDA,SixDomainChain (SDChain) is a decentralized public blockchain ecosystem that integrates international standards of IoT Six-Domain Model and reference architecture standards for distributed blockchain.,-13.75,8977,2704681,105400,1e-6,0,0.0038
+Crypto.com Coin,CRO,"Pay and be paid in crypto anywhere, with any crypto, for free.",7.659999999999999,123235438,4233179599,103614,4.1e-5,3e-6,0.16720000000000002
+HoloToken,HOT,"Holo is a decentralized hosting platform based on Holochain, designed to be a scalable development framework for distributed applications.",11.52,281098807,2109942853,102043,3e-6,0,0.011899999999999999
+Aurora,AOA,Aurora Chain offers intelligent application isolation and enables multi-chain parallel expansion to create an extremely high TPS with security maintain.,1.72,1333670,16247381,101625,1e-6,0,0.0037
+XCELTOKEN PLUS,XLAB,"XcelTrip is blockchain based travel platform which is fully functional with over 800,000 hotels and 400 airlines worldwide.",16.810000000000002,97,196996,101596,0,0,0
+KyberNetwork,KNC,KyberNetwork is a new system which allows the exchange and conversion of digital assets.,12.860000000000001,144525879,444110548,101264,7.86e-4,6.3e-5,3.2
+CNN Token,CNN,Blockchain-based Content Ecosystem,-13.06,843467,9614202,100469,0,0,2e-4
+Decentraland,MANA,"Decentraland is a virtual reality platform powered by the Ethereum blockchain. Users can create, experience, and monetize content and applications",10.15,162087631,1731618900,100284,3.19e-4,2.6000000000000002e-5,1.3
+Polymath,POLY,Polymath aims to enable securities to migrate to the blockchain.,10.68,5268356,299402684,98884,8.800000000000001e-5,7e-6,0.359
+ERC20,ERC20,ERC20 is an innovative NFTs Collectibles token and a new kind of DeFi crypto.,-27.9,4021,4932072,97673,1e-6,0,0.0044
+PCHAIN,PAI,"Native multichain system in the world that supports Ethereum Virtual Machine (EVM), which consists of one main chain and multiple derived chains.",5.38,2808244,36904977,93874,1.1000000000000001e-5,1e-6,0.0443
+Nexo,NEXO,Instant Crypto-backed Loans,12.01,9078385,2196980761,92195,9.55e-4,7.699999999999999e-5,3.8899999999999997
+Yee - A Blockchain-powered & Cloud-based Socia,YEE,Blockchain-powered & cloud-based social ecosystem.,24.2,11613855,9022868,90208,1e-6,0,0.003
+Credo Token,CREDO,"Credo is the token you earn when someone you don’t know sends you an unsolicited email. You can use the Credo you earn to send your own emails to people you don’t know, trade it for other currencies, or hold onto it as its power increases.",NA,8,2804917,89979,3e-6,0,0.013000000000000001
+Revain,REV,Revain is a blockchain-based review platform for the crypto community. Revain's ultimate goal is to provide high-quality reviews on all global products and services using emerging technologies like blockchain and AI.,7.03,6632362,12794555,89590,6e-6,1e-6,0.026400000000000003
+Fair Token,FAIR,Fair.Game is a fair game platform based on blockchain technology.,19.36,5061208,6297548,87875,2e-6,0,0.009
+StatusNetwork,SNT,Status is an open source messaging platform and mobile browser to interact with decentralized applications that run on the Ethereum Network.,17.25,68061911,674074189,87403,4.3e-5,3e-6,0.1736
+LoopringCoin V2,LRC,"Loopring is a DEX protocol offering orderbook-based trading infrastructure, zero-knowledge proof and an auction protocol called Oedax (Open-Ended Dutch Auction Exchange).",5.41,210759539,786615884,85053,1.54e-4,1.2e-5,0.6266
+FunFair,FUN,FunFair is a decentralised gaming platform powered by Ethereum smart contracts,6.09,10370410,363027857,84685,9e-6,1e-6,0.034999999999999996
+Storj,STORJ,"Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data",9.39,78773644,259694499,83288,4.42e-4,3.6e-5,1.8
+Gene Source Code Chain,Gene,The distributed storage network blockchain system that provides genetic data and individual health data integrated interface.,NA,1,606639,83284,0,0,0.0014
+Internet Node Token,INT,IOT applications,15.719999999999999,3230014,8541631,82840,4e-6,0,0.017
+Jury.Online,JOT,Unique platform for secure investment in responsible ICOs.,NA,0,32855,82635,1e-6,0,0.0024000000000000002
+Maker,MKR,Maker is a Decentralized Autonomous Organization that creates and insures the dai stablecoin on the Ethereum blockchain,11.92,358749106,4626757202,81839,1.254538,0.10121600000000001,5109.52
+Proton Token,PTT,Data Intelligent Collaboration Network,-1.24,77021,1026327,80754,0,0,3e-4
+chiliZ,CHZ,"Chiliz is the sports and fan engagement blockchain platform, that signed leading sports teams.",4.859999999999999,458381534,2336161621,80559,1.07e-4,9e-6,0.4363000000000001
+Aave Token,AAVE,"Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets. It also features access to highly innovative flash loans, which let developers borrow instantly and easily; no collateral needed. With 16 different assets, 5 of which are stablecoins.",21.2,1550164017,7676905708,78473,0.14724900000000005,0.01188,599.72
+BitDegree,BDG,The BitDegree platform will offer students the best online courses with a clear and transparent blockchain based reward system and achievement tracking.,-15.3,900,950345,77875,1e-6,0,0.0025
+FNKOSToken,FNKOS,FNKOS is a fog computing-based blockchain operating system designed to make the best use of the edge computing resources such as idle hardware network and storage resources.,NA,53,930451,77779,1e-6,0,0.006
+Synthetix Network Token,SNX,"The Synthetix Network Token (SNX) is the native token of Synthetix, a synthetic asset (Synth) issuance protocol built on Ethereum. The SNX token is used as collateral to issue Synths, ERC-20 tokens that track the price of assets like Gold, Silver, Oil and Bitcoin.",17.12,695453958,3296965025,74273,0.005308,4.28e-4,21.62
+NOAHCOIN,NOAH,Aims to build an ecosystem from digital wallets to beach resorts and even entire cities - all powered by Noah Coin.,7.99,6444,1227489,73355,0,0,0
+NucleusVision,nCash,"Founded at Harvard University, Nucleus Vision is an IoT-based, contactless identification system that empowers retailers to identify and better serve their customers.",25.6,2682130,19481743,72235,2e-6,0,0.0069
+智投链,IIC,,0.54,650961,2629942,69717,0,0,2e-4
+Salt,SALT,SALT lets you leverage your blockchain assets to secure cash loans. We make it easy to get money without having to sell your favorite investment.,5.52,91243,56788813,68270,1.5900000000000002e-4,1.3000000000000001e-5,0.6473
+HeroNodeToken,HER,Hero Node is a cross-public-blockchain and cross-platform DApp development platform and solutions.,408.55,212,581598,67902,0,0,6e-4
+Soma Community,SCT,SOMA brings a social trading experience to consumers while providing a robust tracking and authentication protocol for business.,NA,5,13574,66885,0,0,0.0011
+Social Activity Token,SAT,Sphere Social Network is a next-generation decentralized social network powered by Social Activity Token,209.60999999999999,1,402599,65565,1e-6,0,0.0032
+RED MWAT,MWAT,"RED-F is a tokenized franchise offer on the European Union energy market, that allows anyone to create and operate their own retail energy business and earn revenues.",19.51,418476,13797225,64746,7e-6,1e-6,0.0303
+DENT,DENT,Aims to disrupt the mobile operator industry by creating an open marketplace for buying and selling of mobile data.,10.89,95092848,651616393,64540,2e-6,0,0.0068000000000000005
+Hms Token,HMC,"HMS(Hi Mutual Society) is a blockchain project developed and operated by Qfund, the largest online crowdfunding platform in Asia. HMS intends to build up a decentralized Mutual Society using blockchain technology.",NA,152,306388,63723,0,0,8e-4
+Refereum,RFR,Distribution and growth platform for games.,3.53,21813164,83929039,63721,4e-6,0,0.017300000000000003
+CanYaCoin,CAN,Blockchain-Powered Marketplace of Services,-0.93,22665,7279866,63281,5.6000000000000006e-5,4e-6,0.2262
+CoinFi,COFI,"CoinFi offers crowdsourced and professionally curated research, analysis, trading signals, trading algorithms, and market-moving news to give cryptocurrency traders the real-time market intelligence needed to gain an edge.",19.38,249572,2612794,63134,3e-6,0,0.0118
+Compound Ether,cETH,"Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.",12.28,1681184,6447731129,62942,0.020033,0.0016159999999999998,81.59
+Indorse,IND,Decentralized Professional Network powered by blockchain technology,8.81,2158,1498253,62622,8e-6,1e-6,0.0335
+Fuel Token,FUEL,"Etherparty™ is a contract wizard that removes the complexity of creating, managing and executing smart contracts on any compatible blockchain.",43.11,467089,1752728,62309,0,0,0.0018
+Distributed Credit Chain,DCC,Distributed banking public blockchain with a goal to establish a decentralized ecosystem for financial service providers around the world.,NA,0,2212434,61299,0,0,7e-4
+I HOUSE TOKEN,IHT,Real Estate Blockchain Cloud Platform.,2.42,59480,1754613,61284,0,0,0.0018
+1INCH Token,1INCH,1inch is a decentralized exchange aggregator that sources liquidity from various exchanges and is capable of splitting a single trade transaction across multiple DEXs. Smart contract technology empowers this aggregator enabling users to optimize and customize their trades.,9.350000000000001,182228178,967608421,60509,0.001419,1.14e-4,5.78
+MoneyToken,IMT,"MoneyToken provides crypto-backed loans, stablecoin MTC and decentralized exchange service",5.73,65694,4714847,60265,0,0,5e-4
+ZeusShieldCoin,ZSC,Both blockchain and AI are adopted and integrated in the Zeusshield insurance system. Such integration leads to a green insurance ecosystem in terms of a business-to-customer based peer-to-peer (p2p) insurance market platform. The platform is open to both the insurer and insured units.,13.07,2623,907133,60063,0,0,5e-4
+DATx,DATx,Blockchain-based digital advertising terminal,17.27,305960,1018127,58248,0,0,0.001
+Graph Token,GRT,The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL.,7.659999999999999,197088593,1650842728,57605,3.31e-4,2.7000000000000002e-5,1.35
+Storiqa,STQ,crypto marketplace- Sell and buy goods with cryptocurrencies,-42.43,2,463073,57303,0,0,0
+TenXPay,PAY,TenX connects your blockchain assets for everyday use. TenX’s debit card and banking licence will allow us to be a hub for the blockchain ecosystem to connect for real-world use cases.,0.6799999999999999,11524291,15456622,57151,3.2e-5,3e-6,0.1305
+EduCoin,EDU,Blockchain Technology - based Global Online Education Platform,9.639999999999999,175812,2817713,56342,0,0,3e-4
+OneRoot Network,RNT,Blockchain Technology Solution Provider,15.729999999999999,911494,3793919,55006,3e-6,0,0.0134
+ShowHand,HAND,"Showhand is the cryptocurrency of global gaming Industry and is trying to make gambling more inclusive, fair and decentralized.",992.9399999999999,0,8782846,54305,0,0,0
+KAN,KAN,A decentralized cryptocurrency-concentrated & content payment community.,5.34,2924259,33831877,54060,2e-6,0,0.0062
+IXE Token,IXE,Educational project for children,NA,0,17832,53720,0,0,7e-4
+ELF,ELF,"elf is a decentralized self-evolving cloud computing blockchain
+network that aims to provide a high performance platform for commercial adoption of blockchain.",8.06,32353880,189686214,52311,1.01e-4,8e-6,0.41000000000000003
+LON Token,LON,Tokenlon is a decentralized exchange and payment settlement protocol.,10.03,24911467,129875101,51792,0.001296,1.05e-4,5.28
+RUFF,RUFF,Decentralized open source blockchain architecture for high efficiency Internet of Things application development,3.19,2690750,13700445,51732,4e-6,0,0.0145
+PowerLedger,POWR,Power Ledger is a peer-to-peer marketplace for renewable energy.,3.54,10305940,185125847,51307,1.05e-4,8e-6,0.42840000000000006
+Pro,PRO,Precision Ad Blockchain Based on Big Data.,NA,34,2099412,51065,1e-5,1e-6,0.042
+FOTA,FOTA,Blockchain Platform for Global OTC Derivatives Market,2.8299999999999996,31,314372,50454,0,0,9e-4
+WePower,WPR,Blockchain Green energy trading platform,-1.82,1860417,22796324,50390,9e-6,1e-6,0.0373
+Kin,KIN,"The vision for Kin is rooted in the belief that a participants can come together to create an open ecosystem of tools for digital communication and commerce that prioritizes consumer experience, fair and user-oriented model for digital services.",15.9,7097688,213403277,49941,0,0,1e-4
+Bytom,BTM,Transfer assets from atomic world to byteworld,4.54,77556043,327448451,49469,4.8e-5,4e-6,0.1946
+Dentacoin,Dentacoin,Aims to be the blockchain solution for the global dental industry.,-10.219999999999999,266486,52215179,49410,0,0,1e-4
+SushiToken,SUSHI,,26.110000000000003,957929769,3034774399,48717,0.004405,3.55e-4,17.939999999999998
+NAGA Coin,NGC,The NAGA CARD allows you to fund with cryptos and spend your money (online/offline) all around the globe.,5.14,14283,3588109,47750,1.1000000000000001e-5,1e-6,0.0461
+TrueUSD,TUSD,"A regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars.",-0.46,181502819,1189766867,46801,2.45e-4,2e-5,0.9964999999999999
+VeChain,VEN,Aims to connect blockchain technology to the real world by as well as advanced IoT integration.,10.42,1991052699,12320301651,46050,4.600000000000001e-5,4e-6,0.189
+UBCoin,UBC,The Ubcoin is a crypto-goods p2p exchange where anyone can safely and instantly sell any good’s and become a cryptocurrency holder.,NA,0,64281,45313,0,0,2e-4
+BHPCash,BHPC,"Distributed bank based on bitcoin hash power credit, offers innovative service of receiving dividend from mining and multiple derivative financial services on the basis of mining hash power.",0.8500000000000001,1978681,7583496,45150,2.04e-4,1.6000000000000003e-5,0.8306000000000001
+Free Coin,FREE,Social project to promote cryptocurrency usage and increase global wealth,-2.66,929223,72095063,45143,0,0,0
+Dropil,DROP,"Dropil focuses on innovative technologies for autonomous & intelligent trading, reporting and storage in the cryptocurrency world.",NA,248,142340,44857,0,0,0
+Atomic Wallet Token,AWC,Immutable. Trustless. Distributed. Multi-asset custody-free Wallet with Atomic Swap exchange and decentralized orderbook. Manage your crypto assets in a way Satoshi would use.,12.29,74458,22468929,44614,5.200000000000001e-4,4.2000000000000004e-5,2.1189999999999998
+OKB,OKB,Digital Asset Exchange,2.22,1468962261,9118301336,44078,0.00826,6.66e-4,33.64
+DAGT Crypto Platform,DAGT,Decentralized platform which allows holders of blockchain assets to leverage their holdings as collateral for assets guarantee.,7.1,8262818,3346618,43347,3.6e-5,3e-6,0.14490000000000003
+XY Oracle,XYO,Blockchain's crypto-location oracle network,16.14,580258,44498897,43266,1e-6,0,0.0053
+Friendz Coin,FDZ,A digital marketing revolutionon the blockchain,-22.02,62783,1446131,43187,1e-6,0,0.0024000000000000002
+Quantstamp,QSP,"QSP is an ERC-20 token used for verifying smart contracts on the decentralized QSP Security Protocol. Users can buy automated scans of smart contracts with QSP, and validators can earn QSP for helping provide decentralized security scans on the network at protocol.quantstamp.com.",9.61,892357,54529782,43040,1.9e-5,2e-6,0.0758
+Binance USD,BUSD,"Binance USD (BUSD) is a dollar-backed stablecoin issued and custodied by Paxos Trust Company, and regulated by the New York State Department of Financial Services. BUSD is available directly for sale 1:1 with USD on Paxos.com and will be listed for trading on Binance.",-0.29000000000000004,9327260045,7645203950,42793,2.44e-4,2e-5,0.9952
+ZTCoin,ZT,"ZBG is a global innovative tokens exchange platform, providing investors with a lithesome and rapid globalization digital asset exchange experience.",2.8299999999999996,372827,15507469,42534,8e-6,1e-6,0.0317
+Aurora DAO,AURA,Aurora is a collection of Ethereum applications and protocols that together form a decentralized banking and finance platform.,7.42,1707541,62085540,42076,2.6000000000000002e-5,2e-6,0.10720000000000002
+Celsius,CEL,"A new way to earn, borrow, and pay on the blockchain.!",7.930000000000001,14917850,2817965402,41905,0.0017970000000000002,1.4500000000000003e-4,7.319999999999999
+IvyKoin Public Network Tokens,IVY,Ivy is a blockchain-based technology for FIAT & cryptocurrency business transactions. The Ivy network utilizes IVY tokens which carry KYC & KYT data points critical for Financial Institution validation.,NA,0,2953963,41201,2e-6,0,0.009099999999999999
+Rebellious,REBL,"Rebellious is a company based in the Netherlands. Using their unique approach, they aim to build a strong currency powered by an even stronger community that’s motivated by growth rather than greed.",NA,0,37400,40884,0,0,2e-4
+IOSToken,IOST,A Secure & Scalable Blockchain for Smart Services,11.58,283888888,1196614706,40762,1.3000000000000001e-5,1e-6,0.0529
+MOT,MOT,"To build a decentralized, privacy-preserving ecosystem of financial products, services, and applications with unrestricted access for all.",NA,0,34641,40574,0,0,9e-4
+FEGtoken,FEG,"FEG is an experimental progressive deflationary DeFi token whereby on each transcation, a tax of 1% will be distributed to the holders and a further 1% will be burnt, hence incentivising holders to hodl and decreasing the supply overtime.",19.310000000000002,23201608,945043034,40407,0,0,0
+UseChain Token,USE,Mirror Identity Protocol and integrated with multi-level innovations in technology and structure design.,0.55,103,1286476,40331,0,0,3e-4
+Dragon,DRGN,Dragonchain simplifies the integration of real business applications onto a blockchain.,10.65,921993,87072567,40325,5.8e-5,5e-6,0.2356
+Genaro X,GNX,"The Genaro Network is the first Turing-complete public blockchain combining peer-to-peer storage with a sustainable consensus mechanism. Genaro's mixed consensus uses SPoR and PoS, ensuring stronger performance and security.",1.36,4650198,14722807,40165,1.2e-5,1e-6,0.0484
+StormX,STMX,"StormX is a gamified marketplace that enables users to earn STMX ERC-20 tokens by completing micro-tasks or shopping at global partner stores online. Users can earn staking rewards, shopping, and micro-task benefits for holding STMX in their own wallet.",11.32,44374284,361671541,40103,1e-5,1e-6,0.0425
+WaykiCoin,WIC,"WaykiChain aims to build the blockchain 3.0 commercial public chain, provide enterprise-level blockchain infrastructure and industry solutions, and create a new business model in the new era.",14.129999999999999,22865402,85499546,39684,1.01e-4,8e-6,0.40950000000000003
+Request,REQ,"A decentralized network built on top of Ethereum, which allows anyone, anywhere to request a payment.",9.57,1910822,98236426,39014,3.1e-5,3e-6,0.1262
+Bancor,BNT,Bancor is an on-chain liquidity protocol that enables constant convertibility between tokens. Conversions using Bancor are executed against on-chain liquidity pools using automated market makers to price and process transactions without order books or counterparties.,10.139999999999999,163626711,1492457729,38067,0.0018609999999999998,1.5000000000000001e-4,7.58
+OriginToken,OGN,Origin Protocol is a platform for creating decentralized marketplaces on the blockchain.,16.650000000000002,147181779,296612696,37225,3.4399999999999996e-4,2.8000000000000003e-5,1.4
+smartshare token,SSP,"A blockchain-based IoT ecosystem with 150,000 smart devices connected",7.51,268850,1210704,36766,0,0,3e-4
+MT Token,MT,Create a New Ecosystem of Cryptocurrency Investment.,79.21000000000001,2930621,4981071,36161,1e-6,0,0.0028
+Hurify Token,HUR,A Decentralized platform for IOT solution development.,1.1300000000000001,0,97771,35831,0,0,4e-4
+Substratum,SUB,Substratum is an open-source network that allows anyone to allocate spare computing resources to make the internet a free and fair place for the entire world.,11.41,4541,1959526,35353,2e-6,0,0.0079
+BitCapitalVendorToken,BCV,Blockchain digital asset management.,9.88,363679,2877089,35038,1e-6,0,0.0033
+yearn.finance,YFI,DeFi made simple.,25.25,1225139705,2870263127,35018,9.511002999999999,0.5741480000000001,79465.001
+Orchid,OXT,Orchid enables a decentralized VPN.,9.58,22815753,347639823,34809,1.44e-4,1.2e-5,0.5869
+Telcoin,TEL,A cryptocurrency distributed by your mobile operator and accepted everywhere.,20.54,109715154,2451689923,34605,1.1000000000000001e-5,1e-6,0.0439
+LockTrip,LOC,Hotel Booking & Vacation Rental Marketplace With 0% Commissions.,6.09,226809,150554197,34458,0.0022740000000000004,1.83e-4,9.26
+Balancer,BAL,"Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer’s formula is a generalization that allows any number of tokens in any weights or trading fees.",9.66,80170798,692817239,34216,0.015721,0.001268,64.03
+Numeraire,NMR,NMR is the scarcity token at the core of the Erasure Protocol. NMR cannot be minted and its core use is for staking and burning. The Erasure Protocol brings negative incentives to any website on the internet by providing users with economic skin in the game and punishing bad actors.,7.37,17798512,335927287,33969,0.014405,0.001162,58.67
+Silent Notary Token,SNTR,"SilentNotary is a multiplatform decentralized service for confirmation of event existence. SilentNotary converts an event into legally significant evidence, excluding the possibility of falsification.",NA,0,1249493,33963,0,0,0
+BCDN,BCDN,,4.44,1217,771322,33227,1e-6,0,0.0022
+ZEON,ZEON,"ZEON Wallet provides a secure application that available for all major OS. Crypto-backed loans
+without checks.",8.62,1090232,154580621,33150,1e-6,0,0.0052
+HuobiToken,HT,Huobi Global is a world-leading cryptocurrency financial services group.,2.98,4972042361,6022081132,32366,0.008197999999999999,6.61e-4,33.39
+LibraToken,LBA,Decentralized lending infrastructure facilitating open access to credit networks on Ethereum.,6.81,953215,4131080,32317,1e-6,0,0.0061
+KanadeCoin,KNDC,Token to support monozukuri.,0.12000000000000001,13,403382,31945,0,0,1e-4
+Curve DAO Token,CRV,,9.6,608619709,1275042246,31508,8.810000000000001e-4,7.099999999999999e-5,3.59
+Elycoin,ELY,A decentralized platform to build Ecommerce websites on the blockchain.,8.44,175844,954426,31391,2e-6,0,0.0082
+Bulleon,BUL,Revolutionizing the way of Financial Transactions,-0.45,0,11049,31277,2e-6,0,0.0101
+Themis Token,THM,Themis Chain is a decentralised forecasting ecosystem based on blockchain technology.,NA,0,43378,30679,0,0,0
+Voyager,VGX,People-powered cryptocurrency services for the blockchain,5.05,5751993,835614821,30560,9.21e-4,7.4e-5,3.75
+Ocean Token,OCEAN,"Ocean Protocol helps developers build Web3 apps to publish, exchange and consume data.",9.46,66382085,539520791,30556,3.09e-4,2.5e-5,1.26
+ContentBox Token,BOX,Blockchain Infrastructure For The Digital Content Industry. Empowering a decentralized digital content ecosystem.,16.150000000000002,2860002,3115193,30382,1e-6,0,0.0033
+HashCoin,HSC,"As a platform and bridge linking the physical and digital world, HashFuture aims to solve the problem of digital assets property rights issues and cross-chain asset transfer.",17.91,403088,2930142,30057,0,0,1e-4
+Wrapped BTC,WBTC,"Wrapped Bitcoin (WBTC) is an ERC20 token backed 1:1 with Bitcoin.
+Completely transparent. 100% verifiable. Community led.",4.83,825863202,8861299837,29471,2.38009,0.998826,50422
+Worldcore,WRC,Worldcore is building a transparent business and they aim to become the industry-first company with totally different approach to ICO.,-0.33999999999999997,0,190530,29221,0,0,0.0011
+MCO,MCO,"Crypto.com, the pioneering payments and cryptocurrency platform, seeks to accelerate the world’s transition to cryptocurrency.",-1.53,2786451,305605349,29204,0.004751,3.83e-4,19.3497
+Cindicator,CND,Hybrid Intelligence for effective asset management.,7.98,492928,59456736,28893,8e-6,1e-6,0.0312
+BandToken,BAND,"A data governance framework for Web3.0 applications operating as an open-source standard for the decentralized management of data. Band Protocol connects smart contracts with trusted off-chain information, provided through community-curated oracle data providers.",8.25,125678532,512604404,28873,0.0037640000000000004,3.0399999999999996e-4,15.33
+Populous,PPT,"Aims to rebuild invoice financing block by block, for invoice buyers and sellers.",7.4,5420048,140461010,28688,9.53e-4,7.699999999999999e-5,3.88
+Dock,DOCK,"dock.io is a decentralized data exchange protocol that lets people connect their profiles, reputations and experiences across the web with privacy and security.",9.68,8580258,53791776,28369,2.4e-5,2e-6,0.09570000000000001
+MetaGraphChain,BKBT,Value Discovery Platform of Block Chain & Digital Currencies Based On Meta-graph Chain,6.659999999999999,216242,6935384,28286,0,0,0.0017000000000000001
+Theta Token,THETA,A decentralized peer-to-peer network that aims to offer improved video delivery at lower costs.,9.360000000000001,405922264,10086692914,28054,0.0024680000000000006,1.99e-4,10.05
+SwissBorg,CHSB,Crypto Wealth Management.,13.28,8304039,1129332759,27972,2.92e-4,2.4e-5,1.1900000000000002
+Mainframe Token,MFT,A decentralized network for censorship-resistant message routing.,11.3,30006217,143968001,27905,4e-6,0,0.0153
+1World,1WO,1World is first of its kind media token and new generation Adsense. 1WO is used for increasing user engagement by sharing 10% ads revenue with participants and for buying ads.,5.08,9181,2333619,27727,2.3000000000000003e-5,2e-6,0.0938
+KNOW,KNOW,A New World-Class Crypto Exchange: A Cross-blockchain Crypto Exchange with P2P Fiat Conversion Function,3.2800000000000002,347719,279303,27357,1e-6,0,0.0023
+Bluzelle,BLZ,Aims to be the next-gen database protocol for the decentralized internet.,1.1900000000000002,63875381,103315235,27345,8.800000000000001e-5,7e-6,0.358
+AidCoin,AID,Powering the AIDChain platform to make the nonprofit sector more transparent.,12.81,8795,10862416,26918,4.9000000000000005e-5,4e-6,0.1981
+Swipe,SXP,Swipe is a cryptocurrency wallet and debit card that enables users to spend their cryptocurrencies over the world.,10.850000000000001,307074344,356540060,26702,0.001012,8.2e-5,4.119999999999999
+Fantom Token,FTM,"Fantom is a high-performance, scalable, customizable, and secure smart-contract platform. It is designed to overcome the limitations of previous generation blockchain platforms. Fantom is permissionless, decentralized, and open-source.",17.56,179910066,1806215765,26606,1.73e-4,1.4000000000000001e-5,0.7028
+Bread,BRD,BRD is the simple and secure bitcoin wallet.,12.139999999999999,525068,25539706,26587,7.699999999999999e-5,6e-6,0.3152
+SIRIN,SRN,"SIRIN LABS’ aims to become the world’s leader in secure open source consumer electronics, bridging the gap between the mass market and the blockchain econom",8.39,903651,10399493,26574,5e-6,0,0.0195
+SingularityNET,AGI,Decentralized Marketplace for AI.,11.25,3959367,319044518,26389,8.1e-5,7e-6,0.3289
+Walton,WTC,Value Internet of Things (VIoT) constructs a perfect commercial ecosystem via the integration of the real world and the blockchain.,21.630000000000003,28316895,55534377,26170,4.62e-4,3.7e-5,1.8800000000000001
+BOB Token,BOB,Using Blockchain to eliminate review fraud and provide lower pricing in the home repair industry through a decentralized platform.,26.73,57201,3556171,26029,3e-6,0,0.0134
+Ampleforth Governance,FORTH,FORTH is the governance token for the Ampleforth protocol. AMPL is the first rebasing currency and a key DeFi building block for denominating stable contracts.,5.3,35056019,263706968,25857,0.007746,6.25e-4,31.55
+Measurable Data Token,MDT,Decentralized Data Exchange Economy.,14.08,9376697,37333733,25717,1.5000000000000002e-5,1e-6,0.061399999999999996
+Hydro Protocol,HOT,A network transport layer protocol for hybrid decentralized exchanges.,11.78,748948,6389810,25516,4e-6,0,0.015399999999999999
+RNTB Token,RNTB,BitRent is the blockchain platform meant to attract commercial and residential property investments at an early stage of construction in order to gain maximum profit by selling and renting out the acquired property,NA,0,72962,25448,0,0,1e-4
+0chain,ZCN,"0Chain is a decentralized storage platform providing privacy and security protection. It protects companies from GDPR liability, makes data breach impossible, and reduces legal discovery and compliance costs.",19.71,578499,60296258,24914,3.0399999999999996e-4,2.5e-5,1.24
+Zilliqa,ZIL,Zilliqa is a high-throughput public blockchain platform - designed to scale to thousands ​of transactions per second.,12.51,234279128,2418315252,24632,4.9000000000000005e-5,4e-6,0.2
+PolicyPal Network,PAL,Dual-Layered Protocol for Financial Assets,NA,4920,113251,24611,0,0,2e-4
+RipioCreditNetwork,RCN,Ripio Credit Network is a global credit network based on cosigned smart contracts and blockchain technology that connects lenders and borrowers located anywhere in the world and on any currency,18.04,2596845,73410706,23454,3.4e-5,3e-6,0.13890000000000002
+SwftCoin,SWFTC,SWFT is a cross-blockchain platform.,5.58,13124310,23407521,23387,1e-6,0,0.0036
+MATRIX AI Network,MAN,Aims to be an open source public intelligent blockchain platform,8.06,4511169,13801097,23161,2.3000000000000003e-5,2e-6,0.09179999999999999
+All Sports Coin,SOC,All Sports public blockchain hopes to fill in the blank of blockchain application in sports industry through blockchain technology.,12.350000000000001,4023545,22491243,22935,5e-6,0,0.0191
+Medical Token Currency,MTC,MTC is an utility token that fuels a healthcare platform providing healthcare information to interested parties on a secure blockchain supported environment.,-2.34,98522,6815563,22881,2e-6,0,0.0083
+Tierion Network Token,TNT,Tierion creates software to reduce the cost and complexity of trust. Anchoring data to the blockchain and generating a timestamp proof.,NA,103,6464491,22850,4e-6,0,0.015099999999999999
+TokenClub Token,TCT,"TokenClub, a blockchain-based cryptocurrency investment service community",5.99,9253150,35368117,22750,1.5000000000000002e-5,1e-6,0.0606
+Veritaseum,VERI,"Veritaseum builds blockchain-based, peer-to-peer capital markets as software on a global scale.",-14.719999999999999,72011,48087987,22681,0.005652,4.56e-4,23.04
+PILLAR,PLR,A cryptocurrency and token wallet that aims to become the dashboard for its users' digital life.,12.02,25923,18803042,22648,1.8e-5,1e-6,0.07220000000000001
+Cortex Coin,CTXC,Decentralized AI autonomous system.,8.29,6320025,3408495,22588,8.300000000000001e-5,7e-6,0.3388
+savedroid,SVD,Savedroid creates a unique ai-fueled ecosystem of crypto saving and investing for the masses.,9.450000000000001,292,282944,22520,0,0,1e-4
+EventChain,EVC,Blockchain secured event ticketing.,27.74,34970,1909265,22420,1.5000000000000002e-5,1e-6,0.0616
+CyberMiles,CMT,Empowering the Decentralization of Online Marketplaces.,9.11,4238798,16750922,22382,5e-6,0,0.020900000000000002
+BlitzPredict,XBP,"Decentralized Betting Exchange, Built on Augur and 0x",11.139999999999999,563,799181,21929,1e-6,0,0.0022
+BANCA,BANCA,"Decentralized intelligent blockchain-based community, using AI and Big Data.",-4.52,3559,1632979,21840,0,0,1e-4
+IOT Chain,ITC,IoT Chain aims to be a A High Security Lite IoT OS,12.3,7425792,13125766,21834,4.5e-5,4e-6,0.1842
+ESSENTIA,ESS,Essentia is a masternoded multi-chained set of protocols connecting centralized and decentralized resources to create new powerful interactions and experiences.,12.96,342224,6113015,21824,1e-6,0,0.0056
+ZBToken,ZB,Blockchain assets financial service provider.,6.06,20437543,60928029,21481,1.3500000000000003e-4,1.1000000000000001e-5,0.5501
+EnergiToken,ETK,EnergiToken rewards energy saving behaviour. Our blockchain solution will create a platform to reward energy efficient behaviour through EnergiToken.,NA,0,46602,21372,0,0,0
+MCAP,MCAP,"MCAP labs focusses on three key areas - Mining research, ICO evaluation &
+ICO investment.",NA,0,48542,20885,1e-6,0,0.0046
+qiibeeToken,QBX,"The global standard for loyalty on the blockchain. With qiibee, businesses around the world can run their loyalty programs on the blockchain.",4.45,474,4259957,20858,2e-6,0,0.0102
+DIAToken,DIA,DIA is delivering verifiable financial data from traditional and crypto sources to its community.,4.84,53034895,178529032,20706,0.001052,8.5e-5,4.29
+Helbiz,HBZ,"HBZ is a cryptocurrency and blockchain based transportation ecosystem to seamlessly offer transportation globally from scooters and cars to tolls and international flights through a partner network with ease, full transparency while users maintain full ownership of their personal data.",NA,20,552946,20657,0,0,6e-4
+UniBright,UBT,The unified framework for blockchain based business integration,15.79,1958822,252141197,20619,4.1500000000000006e-4,3.3e-5,1.6900000000000002
+Bounty0x,BNTY,"A decentralized bounty hunting platform enabling anyone to manage bounty programs, and bounty hunters to receive payment for completing bounty tasks.",22.69,41917,620624,20407,1e-6,0,0.0038
+BOX Token,BOX,"BOX offers a secure, convenient and streamlined crypto asset management system for institutional investment, audit risk control and crypto-exchange platforms.",5.75,23,1741602,20315,1.2e-5,1e-6,0.049100000000000005
+Cobinhood,COB,COBINHOOD is a ZERO Trading Fees cryptocurrency exchange with vision to maximize traders' profits.,NA,228,229139,20098,0,0,6e-4
+Typerium,TYPE,Decentralised Content Creation Platform,-32.39,2532,349020,20070,0,0,5e-4
+Rarible,RARI,Create and sell digital collectibles secured with blockchain.,51.5,7938696,73175638,19872,0.004632,3.74e-4,18.88
+Po.et,POE,"Po.et aims to reclaim value for content creators, publishers and consumers.",10.68,1436,765955,19547,0,0,3e-4
+DAV Token,DAV,"Blockchain-based transportation protocol enabling a decentralized, peer to peer, global transportation network",6.29,2771,2603391,18955,1e-6,0,0.0038
+EBCoin,EBC,The universal cryptocurrency based on Ethereum for travelers in the world,-43.56,4,626863,18889,0,0,1e-4
+UNetworkToken,UUU,"U Network is a decentralized content asset storage, notarization, distribution, publishing and valuation network based on the blockchain.",8.94,1686764,6024310,18873,0,0,9e-4
+SENTINEL PROTOCOL,UPP,"Sentinel Protocol is a blockchain-based threat intelligence platform that defends against hacks, scams, and fraud using crowdsourced threat data collected by security experts; called the Sentinels.",6.76,11344183,43925125,18870,3.3e-5,3e-6,0.133
+Faceter,FACE,Сomputer vision surveillance technology powered by fog network of miners.,27.85,3278,905476,18850,0,0,0.0018
+Stox,STX,Blockchain Prediction Markets Platform.,-12.629999999999999,308,840461,18630,4e-6,0,0.0167
+CREDITS,CS,CREDITS is an open blockchain platform with autonomous smart contracts and the internal cryptocurrency. The platform is designed to create services for blockchain systems using self-executing smart contracts and a public data registry.,2.14,890123,19995863,18628,2.2000000000000003e-5,2e-6,0.08929999999999999
+Compound Dai,cDAI,"Compound is an open-source, autonomous protocol built for developers, to unlock a universe of new financial applications. Interest and borrowing, for the open financial system.",-0.28,501951008,4212138462,18563,5e-6,0,0.021400000000000002
+EchoLink,EKO,EKO Blockchain Platform is a public blockchain service built on top of Proof of Professional Stake consensus protocol (PoPS).,10.77,242074,1900026,18444,1e-6,0,0.0038
+Insolar,INS,Insolar is building an open-source enterprise-grade blockchain platform to enable seamless interactions between companies and new growth opportunities powered by distributed trust,2.3299999999999996,1473267,249375,18441,0,0,0.0019
+RLC,RLC,Blockchain Based distributed cloud computing,61.78,987240723,770427655,18416,0.002684,2.1700000000000002e-4,10.94
+Bloom,BLT,Decentralized credit scoring powered by Ethereum and IPFS.,7.51,26234,8580112,18328,3.7e-5,3e-6,0.15120000000000003
+indaHash Coin,IDH,Influencer marketing tool to connect brands and influencers.,-6.319999999999999,1072,2264125,18300,2e-6,0,0.0068000000000000005
+BLOCKMASON CREDIT PROTOCOL TOKEN,BCPT,Democratizing the creation of credit through permanently recorded debts and obligations.,20.22,801,755737,18200,2e-6,0,0.006500000000000001
+Rate3,RTE,Payment Without Borders - A decentralised protocol for cross border payments and credit scoring. Empowered by Stellar and Ethereum.,10.79,117027,1740373,18187,0,0,0.0017000000000000001
+FirstBlood,ST,FirstBlood.io (“FirstBlood”) is a decentralized Esports gaming platform that is powered by the blockchain,NA,940,982246580,18158,5.6000000000000006e-5,5e-6,0.22970000000000002
+Tripio,TRIO,Decentralized travel marketplace and protocols.,7.119999999999999,1198646,4503402,18089,0,0,0.0017000000000000001
+Bee,BEE,Beenest is a home sharing platform for hosts to list their homes and for guests to find accommodations.,5.17,0,98255,17925,0,0,4e-4
+MaverickChain,MVC,Maverick System is a BAAS(Blockchain As A Service) solution platform which provides multi-chains-supported SDK.,NA,3557,321990,17907,1e-6,0,0.0036
+CarryToken,CRE,"Carry makes personal data fair for consumers, marketers and merchants",5.44,18618931,135795379,17880,4e-6,0,0.0157
+ArcBlock,ABT,"An open source protocol that provides an abstract layer for accessing underlying blockchains, enabling your application to work on different blockchains.",7.58,11015136,19861461,17762,4.9000000000000005e-5,4e-6,0.20120000000000002
+MEDIBIT,MEDIBIT,MediBit is paving a way for healthcare freedom,NA,2897,256618,17748,0,0,0
+Egretia,EGT,HTML5 Blockchain Engine and Platform,4.59,5977396,16697187,17670,1e-6,0,0.0043
+Parsiq Token,PRQ,A Blockchain monitoring and compliance platform.,10.09,1235131,166479142,17310,3.9e-4,3.1e-5,1.59
+ATN,ATN,"ATN is a global artificial intelligence API marketplace where developers, technology suppliers and buyers come together to access and develop new and innovative forms of A.I. technology.",-0.75,162316,1145144,17199,3e-6,0,0.013200000000000002
+PromotionCoin,PC,Promotion chain has come to counter difficulties facing traditional promotion industry,7.13,121357,616720,17135,0,0,1e-4
+Quant,QNT,Blockchain operating system that connects the world’s networks and facilitates the development of multi-chain applications.,4.51,15548808,744575449,16909,0.014104,0.001139,57.49
+SPINDLE,SPD,Unique Investment/Asset Management Platform,9.229999999999999,489,394999,16853,0,0,1e-4
+WAX Token,WAX,Global Decentralized Marketplace for Virtual Assets.,12.09,12732306,320107350,16660,5e-5,4e-6,0.20450000000000002
+CoinDash Token,CDT,"Blox is an open-source, fully non-custodial staking platform for Ethereum 2.0. Their goal at Blox is to simplify staking while ensuring Ethereum stays fair and decentralized.",7.54,597499,22688152,16550,8e-6,1e-6,0.0335
+PumaPay,PMA,"PumaPay's open-source Pull Payment Protocol is a comprehensive blockchain solution which offers robust payment mechanisms far more credible, efficient, flexible, cost-effective, and scalable than current implementations (credit cards).",4.18,290186,12783823,16380,0,0,5e-4
+WaBi,WaBi,"Wabi ecosystem connects Brands and Consumers, enabling an exchange of value. Consumers get Wabi for engaging with Ecosystem and redeem the tokens at a Marketplace for thousands of products.",19.22,2689857,29039211,16377,1.19e-4,1e-5,0.48680000000000007
+SAND,SAND,"The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences in the Ethereum blockchain using SAND, the platform’s utility token.",14.69,66913015,315316579,16300,1.11e-4,9e-6,0.4529
+Trace,TRAC,Purpose-built Protocol for Supply Chains Based on Blockchain.,24.9,2876279,225238270,16229,1.52e-4,1.2e-5,0.621
+NeuroToken,NTK,Neuromation is building a global network of AI specialists to power the next generation of AI innovation.,7.17,1421,8036262,15974,2.3000000000000003e-5,2e-6,0.0931
+Shopping.io,SPI,"Shopping.io is a state of the art platform that unifies all major eCommerce platforms, allowing consumers to enjoy online shopping seamlessly, securely, and cost-effectively.",13.99,2727494,121770700,15868,0.031183,0.0025180000000000003,127.11
+PAID Network,PAID,"PAID Network is a business toolkit that encompassing SMART Agreements, escrow, reputation-scoring, dispute arbitration and resolution.",8.8,1967673,166339372,15791,4.3900000000000005e-4,3.5000000000000004e-5,1.79
+MTC Mesh Network,MTC,MTC Mesh Network connects one machine with another in the IoT.,NA,0,138417,15698,0,0,4e-4
+SP8DE Token,SPX,The Game of Chance.Changed,-3.9,9256,1309385,15653,0,0,2e-4
+Signals Network Token,SGN,Marketplace of data science powered signals for trading cryptocurrencies,NA,47,185399,15652,0,0,0.0015999999999999999
+Couchain,COU,The Couchain Blockchain is a robust outcome of digital technology that can be used for real world applications.,NA,1673,51510,15483,0,0,0
+Centra,CTR,Centra PrePaid Cryptocurrency Card,NA,0,1120552,15468,4e-6,0,0.0165
+DWS,DWS,A Decentralized WI-FI Sharing Ecosystem Secured And Incentivized Through Blockchain Technology.,-15.77,317559,584009,15404,1e-6,0,0.0021
+BTOCoin,BTO,"Bottos is more than an AI public chain with both data
+and model marketplaces,
+Bottos is a platform for the value exchange of AI and affiliated industries based on data feeding, with the ultimate goal of building a distributed AI new ecosystem.",6.58,35656,1692030,15372,1e-6,0,0.0031
+LikeCoin,LIKE,LikeCoin aims to reinvent the Like by realigning creativity and reward. We enable attribution and cross-application collaboration on creative contents,2.14,62755,21273731,15314,5e-6,0,0.0206
+Raiden,RDN,"The Raiden Network is an off-chain scaling solution, enabling near-instant, low-fee and scalable payments. It’s complementary to the Ethereum blockchain and works with any ERC20 compatible token.",13.3,1186595,53875926,15225,1.99e-4,1.6000000000000003e-5,0.8118000000000001
+UBEX Token,UBEX,"Ubex is a global decentralized advertising exchange where companies advertise effectively, while publishers profitably tokenize ad slots on their resources.",63.07,12140,3049221,15156,0,0,0.001
+BANKEX,BKX,The BANKEX Proof-of-Asset (PoA) Protocol is a new standard used to create smart assets and smart contracts for decentralized capital markets,NA,0,2684,15152,0,0,0
+Dusk Network,DUSK,Dusk streamlines the issuance of digital securities and automates trading compliance with the programmable and confidential securities.,13.16,4091500,78179015,15144,5.3e-5,4e-6,0.21750000000000003
+UChain Token,UCN,The Next Generation Distributed Smart Network Blockchain for the Sharing Economy,NA,3817,63138,15114,0,0,2e-4
+UCOT,UCT,Ubique Chain Of Things (UCT) is utility token and operates on its own platform which combines IOT and blockchain technologies in supply chain industries.,12.96,1086,2652913,15093,1e-6,0,0.0051
+MobileGo,MGO,A dedicated token to bring eSports to everyone.,-3.8099999999999996,1717639,1633340,15013,5e-6,0,0.021
+Online.io,OIO,"Online.io platform aims at revolutionizing the browsing experience by making it faster, ad free, more reliable, secure and non-trackable, thus marking a groundbreaking change of the Internet.",NA,0,2932805,15012,1e-6,0,0.0033
+Primas Token,PST,A content publishing platform.,4.56,9203967,2136248,14939,1e-5,1e-6,0.0417
+Lambda,LAMB,Blockchain based decentralized storage solution,11.360000000000001,9958430,98281992,14904,1.6000000000000003e-5,1e-6,0.066
+NKN,NKN,NKN is the new kind of P2P network connectivity protocol & ecosystem powered by a novel public blockchain.,6.76,31976004,320038501,14834,1.3500000000000003e-4,1.1000000000000001e-5,0.5483
+Fetch,FET,"Fetch.ai is building tools and infrastructure to enable a decentralized digital economy by combining AI, multi-agent systems and advanced cryptography.",13.94,26590511,334307770,14827,1.1800000000000001e-4,1e-5,0.48200000000000004
+MediShares,MDS,Mutual Aid Marketplace On BlockChain,8.53,1104801,12193711,14796,3e-6,0,0.0106
+ODEM Token,ODEM,Unlocking human potential. Powering your education and certifications on the blockchain,-1.04,355541,23264787,14661,2.6000000000000002e-5,2e-6,0.10590000000000001
+Smart Advertising Transaction Token,SATT,"SaTT is a new alternative of Internet Ads. Announcers and publishers meet up in a Dapp which acts as an escrow, get neutral metrics and pay fairly publishers.",-9.11,139378,7237857,14594,0,0,0.0017000000000000001
+Armor,ARMOR,"Armor is a smart insurance aggregator for DeFi, built on trustless and decentralized financial infrastructure.",11.76,3255220,83033445,14582,2.31e-4,1.9e-5,0.9417000000000001
+BAX,BAX,A decentralised banking platform that leverages blockchain and biometrics to offer anyone in the world access to a UK bank account for peer-to-peer financial services.,2.46,3431554,48687643,14579,0,0,0.0015
+PayPie,PPP,PayPie platform brings ultimate trust and transparency to the financial markets by introducing the world’s first risk score algorithm based on business accounting.,0.04,0,1835291,14553,5e-6,0,0.0201
+ICONOMI,ICN,ICONOMI Digital Assets Management platform enables simple access to a variety of digital assets and combined Digital Asset Arrays,NA,0,21441525,14528,5.3e-5,4e-6,0.21670000000000003
+Nebulas,NAS,Decentralized Search Framework,7.81,12216876,46167405,14484,2.48e-4,2e-5,1.01
+BBN,BBN,Banyan Network is a fusion of big data network based on blockchain technology called Data Fusion Value Chain Network (DVN).,NA,0,272703,14417,0,0,4e-4
+Zilla,ZLA,Aims to create an ICO purchasing platform.,NA,0,70,14313,0,0,0
+DigitexFutures,DGTX,"The DGTX Token is a protocol token which value derives from its utility as a vehicle for commission-free trading of futures contracts on the price of Bitcoin, Ethereum and Litecoin against the US Dollar.",4.42,2308121,10341760,14303,3e-6,0,0.0121
+0xcert Protocol Token,ZXC,"Create, own, and validate unique assets on the blockchain.",-0.8300000000000001,1039465,2330735,14146,1e-6,0,0.0056
+CocosToken,COCOS,The platform for the next generation of digital game economy.,9.83,2715091,39437533,14023,2.29e-4,1.9e-5,0.9347000000000001
+ThriveToken,THRT,decentralized Ad marketplace,6.23,453,243396,14000,1e-6,0,0.002
+Netkoin,NTK,Location Based Advertising On The Blockchain.,276.21,7,1136292,13999,0,0,2e-4
+YOU Chain,YOU,"YOUChain will create a public infrastructure chain that all people can participate, produce personal virtual items and trade personal virtual items on their own.",5.17,528434,8373851,13892,3e-6,0,0.0113
+cVToken,cV,Decentralized car history registry built on blockchain.,15.18,349858,12486460,13857,0,0,0.0015999999999999999
+UMA Voting Token v1,UMA,UMA is a decentralized financial contracts platform built to enable Universal Market Access.,2.06,56478886,1532574929,13848,0.006233999999999999,5.03e-4,25.41
+AiLink Token,ALI,Open social platform based on blockchain,0.73,1729,552416,13755,0,0,1e-4
+PalletOneToken,PTN,Protocol for Abstract-Level Ledger Ecosystem,13.1,162,374759,13700,0,0,9e-4
+SURETY Token,SURE,Smart Micro-Insurance for the Unbanked on Blockchain.,NA,0,84063,13564,0,0,0.0015
+Simple Token,ST,OST KIT gives you all the tools you need to run your blockchain-powered economy on open scalable sidechains.,13.56,913248,25804481,13536,9e-6,1e-6,0.0372
+Rocket Pool,RPL,Rocket Pool is a decentralised Ethereum Proof of Stake pool designed to be compatible with Casper.,11.19,2550724,374452261,13478,0.0058390000000000004,4.7100000000000006e-4,23.8
+NEVERDIE,NDC,NEVERDIE Studios aims to use the value of the NEVERDIE Coin to make virtual reality fulfill its potential.,NA,0,22510,13449,0,0,2e-4
+NANJCOIN,NANJ,NANJCOIN is a cryptocurrency created using blockchain technology with the goal of connecting people and sports in ways that previously didn’t exist.,-15.729999999999999,381,2461512,13422,0,0,1e-4
+STPT,STPT,Decentralized Network for the Tokenization of any Asset.,7.96,16594494,85428653,13412,1.9e-5,1e-6,0.07540000000000001
+GoToken,GOT,GoNetworks' GoToken - A Solid Cryptocurrency,-0.65,64,273133,13314,1e-6,0,0.0038
+Guaranteed Entrance Token,GET,The GET Protocol offers a blockchain-based smart ticketing solution that can be used by everybody who needs to issue admission tickets in an honest and transparent way.,23.419999999999998,1664270,81054821,13154,0.0012490000000000001,1.01e-4,5.09
+Golem Network Token,GLM,Golem is going to create the first decentralized global market for computing power,10.09,3323935,427281343,12934,1.05e-4,8e-6,0.42730000000000007
+DEBITUM,DEB,Borderless business SME funding.,1.24,60256,522971,12844,1e-6,0,0.0025
+QASH,QASH,"We envision QASH to be the preferred payment token for financial services,
+like the Bitcoin for financial services.
+As more financial institutions, fintech startups and partners adopt QASH
+as a method of payment, the utility of QASH will scale, fueling
+the Fintech revolution.",7.970000000000001,793122,36971814,12841,2.6000000000000002e-5,2e-6,0.1053
+Insights Network,INSTAR,"The Insights Network’s unique combination of blockchain technology, smart contracts, and secure multiparty computation enables the individual to securely own, manage, and monetize their data.",44.290000000000006,86404,7964960,12809,9e-6,1e-6,0.0378
+Spice,SFI,Saffron is an asset collateralization platform where liquidity providers have access to dynamic exposure by selecting customized risk and return profiles.,11.83,1413330,92223296,12803,0.27547200000000005,0.022241999999999994,1122.8799999999999
+SelfKey,KEY,"SelfKey is a blockchain based self-sovereign identity ecosystem that aims to empower individuals and companies to find more freedom, privacy and wealth through the full ownership of their digital identity.",14.92,28121418,41014074,12701,4e-6,0,0.0146
+Cashaa,CAS,"We welcome Crypto Businesses! We know crypto-related businesses are underserved by banks. Our goal is to create a hassle-free banking experience for ICO-backed companies, exchanges, wallets, and brokers. Come and discover the world of crypto-friendly banking.",-7,620825,36195159,12645,1.2e-5,1e-6,0.049800000000000004
+Aditus,ADI,"Aditus is a revolutionary new platform bringing the world of luxury to crypto-affluents, through a privacy-centric decentralised network utilising smart contracts and blockchain technology.",13.92,153131,234018,12604,0,0,0.001
+Gems,GEM,The protocol for micro task marketplace,9.44,5162,344311,12465,0,0,5e-4
+Omix,OMX,"Shivom will enable DNA data donors to collaborate with revolutionary changemakers in biotechnology, healthcare industry, and government-ordained research institutes and contribute to an unprecedented era of medical marvels.",NA,0,1242707,12388,0,0,0.0013
+IoTeX Network,IOTX,"IoTeX is the next generation of the IoT-oriented blockchain platform with vast scalability, privacy, isolatability, and developability. IoTeX connects the physical world, block by block.",11.31,28940710,341682617,12333,1.1000000000000001e-5,1e-6,0.0452
+Tribe,TRIBE,,2.9,4697687,405672400,12297,4.0100000000000004e-4,3.2e-5,1.6334
+UTN-P: Universa Token,UTNP,"The Universa blockchain is a cooperative ledger of state changes, performed by
+licensed and trusted nodes.",29.959999999999997,68833,13486188,12282,1e-6,0,0.0042
+Guppy,Guppy,Matchpool is a platform that creates human connections,26.14,65,235436,12276,1e-6,0,0.0033
+Daneel,DAN,Blockchain news that is simple and reliable with the use of AI.,NA,426,15372,12194,0,0,7e-4
+AirSwap,AST,"AirSwap is based on the Swap protocol, a peer-to-peer protocol for trading Ethereum tokens",15.719999999999999,4430058,62887581,12143,8.900000000000001e-5,7e-6,0.3635
+FundRequest,FND,FundRequest is more than a platform to fund projects. We provide the best experience to fund an issue and incentivise the open source community.,NA,44,75402,12102,0,0,0.0015
+Ink Protocol,XNK,Peer-to-peer transactions on any platform.,6.92,1039,1881644,11958,1e-6,0,0.0044
+AION,AION,"A multi-tier blockchain system designed to address unsolved questions of scalability, privacy, and interoperability in blockchain networks",24.91,36800942,227032969,11929,1.12e-4,9e-6,0.45780000000000004
+QunQunCommunities,QUN,Incentive community platform based on blockchain technology.,6.159999999999999,1688602,6913902,11926,3e-6,0,0.0102
+Metal,MTL,Transfer money instantly around the globe with nothing more than a phone number. Earn rewards every time you spend or make a purchase. Ditch the bank and go digital.,12.02,21877619,224368892,11870,8.510000000000001e-4,6.9e-5,3.4699999999999998
+SONM,SNM,"SONM's aims to be a secure and cost-effective fog supercomputer for general-purpose computing, from mobile app hosting to video rendering to DNA analysis.",11.51,1322343,215526402,11866,1.19e-4,1e-5,0.48710000000000003
+COPYTRACK,CPY,A copyright registration platform.,NA,0,512170,11709,3e-6,0,0.0106
+Paymon,PMNT,Blockchain platform that includes several innovative products.,NA,0,68313,11706,0,0,1e-4
+WINGS,WINGS,"A decentralized platform to create, join and manage projects",0.96,46668,8840933,11629,2.4e-5,2e-6,0.0968
+Zipper,ZIP,Unified Address Digital Assets Wallet,246.84,39,11233239,11584,0,0,7e-4
+Spendcoin,SPND,Spendcoin powers the Spend.com ecosystem. The Spend Wallet App & Spend Card give our users a multi-currency digital wallet that they can manage or spend from,10.950000000000001,119,29806012,11557,8e-6,1e-6,0.0313
+Datum,DAT,Datum is the decentralized marketplace for social and IoT data.,2.59,1502214,5335978,11536,1e-6,0,0.0051
+Gnosis,GNO,Crowd Sourced Wisdom - The next generation blockchain network. Speculate on anything with an easy-to-use prediction market,6.35,5032874,392317449,11412,0.06366000000000001,0.0051400000000000005,259.48999999999995
+STAKE,STAKE,STAKE is a new ERC20 token designed to secure the on-chain payment layer and provide a mechanism for validators to receive incentives.,6.89,5059867,97556744,11297,0.004399,3.55e-4,17.93
+STK,STK,Cryptocurrency Payments straight from your smartphone.,7.01,134879,2368425,11277,2e-6,0,0.0068000000000000005
+DoradoToken,DOR,"The next ""Uber"" On blockchain for all on-demand deliveries.",NA,0,44317,11269,0,0,1e-4
+Upfiring,UFR,Incentivied and deentralized P2P file sharing on the Ethereum Blockchain powered by the UFR token.,-14.99,4625,3060004,11249,3.2e-5,3e-6,0.1295
+Skrumble Network V2,SKM,Skrumble Network (SKM) is an innovative public blockchain that is uniquely optimized for secure communication-centric connections and transactions and dApps.,4.109999999999999,1797792,5052093,11239,1e-6,0,0.0048000000000000004
+QChi,QCH,"QChi is designed for peer to peer transactions aimed at computer, gaming, health and tourism capital market.",NA,5,1126053,11135,1.3000000000000001e-5,1e-6,0.05280000000000001
+Synth sUSD,sUSD,A synthetic asset issued by the Synthetix protocol which tracks the price of the United States Dollar (USD). sUSD can be traded on Synthetix.Exchange for other synthetic assets through a peer-to-contract system with no slippage.,0.16,185692602,194193812,11089,2.5e-4,2e-5,1.02
+CUBE,AUTO,CUBE is an autonomous car security platform backed by blockchain technology.,0.42000000000000004,163339,7234915,11077,0,0,0.0011
+Injective Token,INJ,Injective is a layer-2 DEX that unlocks the potential of decentralized derivatives and borderless DeFi.,4.04,75841047,430742083,11076,0.004391,3.55e-4,17.9
+Gold Reward,GRX,,NA,78,131205,11075,2e-6,0,0.0101
+WELL Token,WELL,Global blockchain protocol designed for healthcare,NA,0,8636,11039,0,0,1e-4
+Hero Origen,HERO,Hero is the future of banking that provides collateralized loans to the unbanked and underbanked consumer across Southeast Asia.,NA,0,351734,11034,7e-6,1e-6,0.029099999999999997
+AIOZ Network,AIOZ,AIOZ is a Blockchain-based Content Delivery Network that is about to bring a revolution to the entertainment industry.,5.49,1796935,52913027,11031,2.1e-4,1.7e-5,0.8556000000000001
+MXCToken,MXC,"Inspiring fast, efficient, decentralized data exchanges using LPWAN-Blockchain Technology.",3.54,26122455,93411789,11023,9e-6,1e-6,0.0382
+Enigma,ENG,Enigma is a privacy protocol that enables truly decentralized applications and unlocks the value of blockchains.,-16.84,239361,14028929,10955,4.1e-5,3e-6,0.1683
+Paxos Gold,PAXG,"PAX Gold (PAXG) tokens each represent one fine troy ounce of an LBMA-certified, London Good Delivery physical gold bar, secured in Brink’s vaults.",1.1500000000000001,21110020,208445967,10954,0.456656,0.03687,1861.42
+Crypto20,C20,Tokenized Crypto Index Fund.,14.98,241537,190552800,10896,0.001393,1.1300000000000001e-4,5.68
+Sapien Network,SPN,Sapien aims to be the web3 social network of the future.,NA,95,1477588,10882,1e-6,0,0.0044
+onG,ONG,"SoMee.social is redefining social media for privacy, control, and monetization. SoMee allows users to monetize content, likes, and time spent on social media.",9.719999999999999,185920,9386958,10756,2.5e-5,2e-6,0.1024
+Scanetchain,SWC,"SCANETCHAIN is the commercial dApp built on the NEM platform Developed for Blockchain Commercialization. Using augmented reality & hybrid blockchain to ensure interoperability of on-offline advertising, shopping, SNS services.",-62.58,587,62604,10722,0,0,1e-4
+HASHGARD,GARD,The protocol of distributed and trusted asset management.,5.659999999999999,99283,4443599,10590,0,0,5e-4
+BIX Token,BIX,AI Enhanced Encrypted Digital Asset Exchange.,2.7600000000000002,6482320,21947991,10476,4.5e-5,4e-6,0.1854
+OVR,OVR,"OVR ecosystem allow users to earn by buying, selling or renting OVR Lands or just by stacking OVR Tokens while content creators can earn building and publishing AR experiences.",1.87,1784985,20853785,10469,2.77e-4,2.2000000000000003e-5,1.1300000000000001
+Endor Protocol Token,EDR,Inventing the “Google” for predictive analytics,-2,22297305,43717084,10452,1.5000000000000002e-5,1e-6,0.061399999999999996
+PolkaBridge,PBR,PolkaBridge offers a decentralized bridge that connects Polkadot platform and other blockchains.,3.8299999999999996,1433634,5357907,10441,6.6e-5,5e-6,0.2675
+Proton,XPR,"Proton is a new public blockchain and dApp platform designed for both consumer applications and P2P payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and buy crypto, and use crypto seamlessly.",3.4,966984,37687043,10378,3e-6,0,0.0104
+HelloGold,HGT,"HelloGold is a start-up that creates simple and accessible gold products for everyone, providing access to gold as a form of savings, loan collateral and remittance",24.32,455,795748,10301,1e-6,0,0.0022
+HitchainCoin,HIT,A Developer Autonomous Community on Blockchain,7.319999999999999,1074630,17616424,10299,0,0,3e-4
+B2BX,B2BX,"Aims to provide cryptocurrency liquidity for brokers, stock exchanges,
+hedge funds and other institutional clients.",NA,22,1902501,10276,2.9e-5,2e-6,0.1168
+SNGLS,SNGLS,"A Blockchain Entertainment Studio, Smart Contract Rights Management Platform and Video On-Demand Portal",10.58,1063771,17569853,10205,5e-6,0,0.0197
+DODO bird,DODO,"DODO is a on-chain liquidity provider, which leverages the Proactive Market Maker algorithm (PMM) to provide pure on-chain and contract-fillable liquidity for everyone.",7.26,38244985,362879907,10198,7.46e-4,6e-5,3.04
+HOLD,HOLD,HOLD is a revolutionary card that provides instant cash against cryptocurrency collateral. Leverage the power of your portfolio without having to sell it.,NA,1081,1393662,10119,0,0,0.002
+TE-FOOD/TustChain,TONE,A food traceability solution.,12.709999999999999,786377,56996276,10118,2.4e-5,2e-6,0.09989999999999999
+Ultiledger,ULT,"Credit circulation, Asset circulation, Value circulation. The next generation global self-financing blockchain protocol.",30.25,3429954,61578533,10085,8e-6,1e-6,0.0315
+SyncFab Smart Manufacturing Blockchain,MFG,Revolutionizing Hardware Manufacturing with Blockchain,13.5,6148,7396317,10056,7e-6,1e-6,0.028
+CelerToken,CELR,"Celer Network is a layer-2 scaling platform that enables fast, easy and secure off-chain transactions.",16.24,40145904,271647533,10028,1.2e-5,1e-6,0.048
+UnikoinGold,UKG,"UnikoinGold is an ethereum-based, decentralized crypto token designed for high-volume, high security, inexpensive gaming and esports related transactions on the Unikrn platform.",NA,11,444390,9962,1e-6,0,0.003
+DOS Network Token,DOS,DOS Network is a chain-agnostic layer 2 decentralized oracle network that offers realtime data feeds and verifiable computation power to mainstream blockchains.,12.05,269608,10775561,9951,2e-5,2e-6,0.081
+QNTU,QNTU,A blockchain-powered lottery for a blockchain-powered future,NA,12,12533102,9884,0,0,4e-4
+Pundi X Token,PUNDIX,To provide developers increased use cases and token user base by supporting offline and online payment of their custom tokens in Pundi X‘s ecosystem.,10.350000000000001,18879245,645654082,9856,6.11e-4,4.9000000000000005e-5,2.4899999999999998
+VIB,VIB,"Viberate is a crowdsourced live music ecosystem and a blockchain-based marketplace, where musicians are matched with booking agencies and event organizers.",9.850000000000001,1594971,16338288,9855,2.2000000000000003e-5,2e-6,0.08889999999999999
+Authorship,ATS,Aims to make the Internet More Free and Accessible For Authors and Readers.,NA,48,5442,9816,0,0,1e-4
+Morpheus.Network,MRPH,"Morpheus.Network was designed with some of the world's largest shipping, customs & banking firms to create a full-service, global, automated, supply chain platform with an integrated cryptocurrency payment system",27.22,1007088,60106161,9633,3.95e-4,3.2e-5,1.61
+SushiBar,xSUSHI,xSushi is what you get when you stake SUSHI on the new sushiswapclassic.org/staking page - the xSUSHI staked earns a reward fee of 0.05% of all trades.,24.12,1533876,1202867364,9629,0.0050680000000000005,4.09e-4,20.66
+AppCoins,APPC,AppCoins is meant for use in the AppCoins blockchain platform to perform transactions in the app store ecosystem.,6.24,780538,19639487,9603,4.3e-5,3e-6,0.17350000000000002
+Frontier Token,FRONT,"Frontier is a chain-agnostic DeFi aggregation layer. To date, they have added support for DeFi on Ethereum, Binance Chain, BandChain, Kava, and Harmony. Via StaFi Protocol, they will enter into the Polkadot ecosystem, and will now put vigorous efforts towards Serum.",14.6,34455657,77670606,9570,5.08e-4,4.1e-5,2.07
+Nitro,NOX,Blockchain platform for video game industry,NA,166,569,9565,0,0,0
+Fusion,FSN,"FUSION is a public blockchain devoting itself to creating an inclusive cryptofinancial platform by providing cross-chain, cross-organization, and cross-datasource smart contracts.",7.89,5128062,106300695,9552,3.7799999999999997e-4,3.1e-5,1.54
+Gladius,GLA,DDoS protection network and DCN.,NA,0,460205,9552,7e-6,1e-6,0.0295
+Rari Governance Token,RGT,"The Rari Governance Token is the native token behind the DeFi robo-advisor, Rari Capital.",12.139999999999999,2929053,110074583,9501,0.003069,2.48e-4,12.51
+Kryll,KRL,A Crypto Traders Community,8.29,225657,14220918,9489,1.09e-4,9e-6,0.4429
+Propy,PRO,Property Transactions Secured Through Blockchain.,8.56,16019424,83782395,9486,3.53e-4,2.9e-5,1.44
+Rupiah Token,IDRT,"Rupiah Token (IDRT) is the first fiat-collateralized Indonesian Rupiah Stablecoin. Developed by PT Rupiah Token Indonesia, each IDRT is worth exactly 1 IDR.",1.95,1775242,2158866,9481,0,0,1e-4
+Block-Chain.com Token,BC,Block-chain.com is the guide to the world of blockchain and cryptocurrency.,16.53,0,4098218,9455,5e-6,0,0.019799999999999998
+QuarkChain Token,QKC,A High-Capacity Peer-to-Peer Transactional System,4.09,10903543,175896652,9394,7e-6,1e-6,0.0271
+DAEX Token,DAX,DAEX is an open and decentralized clearing and settlement ecosystem for all cryptocurrency exchanges.,-2.8299999999999996,336956,4643351,9386,3e-6,0,0.013000000000000001
+Presearch,PRE,Presearch is building a decentralized search engine powered by the community. Presearch utilizes its PRE cryptocurrency token to reward users for searching and to power its Keyword Staking ad platform.,8.59,430471,24184869,9359,1.5000000000000002e-5,1e-6,0.061399999999999996
+DSLA,DSLA,"DSLA Protocol is a decentralized alternative to SLA contracts. It enables anyone to vouch for the reliability of a service, earn rewards when the service performs as expected, and claim financial compensation when the service doesn’t meet expectations.",5.51,1476197,81187663,9213,3e-6,0,0.0126
+Lunyr,LUN,Lunyr is an Ethereum-based decentralized world knowledge base which rewards users with app tokens for peer-reviewing and contributing information,3.4499999999999997,14283,1249156,9158,1.1300000000000001e-4,9e-6,0.4621
+YGGDRASH,YEED,Trust-based Multi-dimensional Blockchain,-1.6300000000000001,30432,5987146,9077,0,0,9e-4
+Blockport,BPT,Social crypto exchange based on a hybrid-decentralized architecture.,4,342518,27839420,9058,1.07e-4,9e-6,0.4358000000000001
+ETERNAL TOKEN,XET,"The Eternal Project is an undertaking for the rapid spread of Eternal Wallet and Eternal Coin around the world, by utilizing the skills and infrastructures of global corporations and individuals.",10.97,414834,11852861,9030,4.8e-5,4e-6,0.1961
+Accelerator,ACC,A proof-of-stake smart contract backed by a physical mining facility.,NA,0,3543,8956,1e-6,0,0.0039
+Pinakion,PNK,"Kleros provides fast, secure and affordable arbitration for virtually everything.",16.610000000000003,5872054,164627193,8884,7.599999999999999e-5,6e-6,0.3109
+Aragon Network Token,ANT,Create and manage unstoppable organizations. Aragon lets you manage entire organizations using the blockchain. This makes Aragon organizations more efficient than their traditional counterparties.,7.6,40382858,299524049,8876,0.0020780000000000004,1.6800000000000002e-4,8.47
+pNetwork Token,PNT,"pNetwork is the heartbeat of cross-chain composability. As the governance network for the pTokens system, it enables the seamless movement of assets across blockchains.",7.33,18349746,82913251,8851,4.7300000000000006e-4,3.8e-5,1.93
+FuzeX,FXT,"Cryptocurrency, credit, debit and reward payments at your fingertips",-16.52,970,1437916,8798,0,0,0.0017000000000000001
+ClearCoin,XCLR,ClearCoin makes buying and selling of media on the blockchain simple and seamless. Its platform powers a system allowing for complete data transparency everyone can trust.,NA,0,88298,8704,0,0,2e-4
+BetProtocolToken,BEPRO,BetProtocol enables entrepreneurs and developers to create gaming platforms in minutes. No coding required.,15.629999999999999,7236563,65598882,8698,3e-6,0,0.0142
+Decentr,DEC,"Decentr is a publicly accessible, open-source blockchain protocol that targets the consumer crypto loans market, securing user data, and returning data value to the user.",9.09,2141170,29553648,8692,9.800000000000001e-5,8e-6,0.40030000000000004
+Launchpool token,LPOOL,"Launchpool believes investment funds and communities work side by side on projects, on the same terms, towards the same goals. Launchpool aims to harness their strengths and aligns their incentives, the sum is greater than its constituent parts.",7.159999999999999,1402265,35220515,8663,0.002313,1.8700000000000002e-4,9.43
+DGD,DGD,DigixDAO is a decentralized voting / utility token that allows users to submit and manage proposals that relate to the growth of the Digix ecosystem and platform.,12.41,275904,73986960,8592,0.19240000000000002,0.015534000000000001,784.26
+DomRaiderToken,DRT,DomRaider aims to be the bridge between the world of assets and the potential of open-source blockchain.,20.06,1657,6367200,8580,1e-6,0,0.0061
+BitMartToken,BMC,BitMart is a globally integrated trading platform founded by a group of cryptocurrency enthusiasts.,4.9,3434038,35160932,8573,5.5e-5,4e-6,0.2251
+CPChain,CPC,CPChain is a new distributed infrastructure for next generation Internet of Things (IoT).,12.49,404588,5215944,8537,3e-6,0,0.013000000000000001
+Herocoin,PLAY,Decentralized Solution for online betting.,20.21,125403,6749958,8513,1.1000000000000001e-5,1e-6,0.0452
+Alpha,A,"Using the powerful Ethereum Network, Alpha Investing is offering a unique suite of products and services for navigating the Crypto-Currency Markets.",19.610000000000003,1893,524184,8477,2e-6,0,0.0093
+Darwinia Network Native Token,RING,"Darwinia Network provides game developers the scalability, cross-chain interoperability, and NFT identifiability, with seamless integrations to Polkadot, bridges to all major blockchains, and on-chain RNG services",39.98,9496718,64310502,8457,3.3e-5,3e-6,0.1343
+SPHTX,SPHTX,Integrating Blockchain with Enterprise Applications.,NA,1728,772996,8413,1e-6,0,0.0022
+Serum,SRM,"Serum is a decentralized derivatives exchange with trustless cross-chain trading by Project Serum, in collaboration with a consortium of crypto trading and DeFi experts.",14.84,147039364,446274534,8377,0.002181,1.7600000000000002e-4,8.89
+Zebi Coin,ZCO,Blockchaining India’s Big Data,4.3,41323,3590554,8345,2e-6,0,0.0071
+Monetha,MTH,Trusted ecommerce.,14.3,3037017,15148313,8241,1.1000000000000001e-5,1e-6,0.044
+J8T,J8T,Democratizing influence.,NA,0,109838,8202,0,0,2e-4
+Lamden Tau,TAU,Lamden is a suite of developer tools that speed up the process of creating new and custom blockchains and apps.,7.51,105083,28164405,8193,2.4e-5,2e-6,0.0974
+Lancer Token,LNC,Blocklancer is a so called Distributed Autonomous Job Market (DAJ) on the Ethereum platform.,NA,0,54527,8135,0,0,5e-4
+Delta,DLT,"Legally Binding Smart Contracts, Powered by AI.",4.88,295101,14059727,8045,4.2000000000000004e-5,3e-6,0.1708
+DataWallet,DXT,"Datawallet provides users with a self-sovereign wallet that puts them in charge of their data, and allows them to monetize as well as utilize an asset that is rightfully theirs.",-5.88,19,264662,8045,0,0,7e-4
+MetaMorph,METM,MetaMorph is an easy Coin Exchange interface that can switch digital currencies from one cryptocurrency to another.,17.07,7426,430657,8032,1e-6,0,0.003
+EmphyCoin,EPY,Decentralized blockchain lodging ecosystem,NA,0,102986,7998,3e-6,0,0.013000000000000001
+bZx Protocol Token,BZRX,BZRX token.,18.57,37778149,165155948,7894,1.93e-4,1.6000000000000003e-5,0.7854999999999999
+DAOstack,GEN,"DAOstack powers decentralized companies, funds and markets to make fast and innovative decisions at scale.",4.7700000000000005,254495,14377513,7894,7.3e-5,6e-6,0.29560000000000003
+XMED Chain Token,XMCT,Connecting global medical data and find your ideal cross-border medical solution,NA,0,40253,7863,0,0,4e-4
+Poker Chips,CHP,CoinPoker is a poker room built on blockchain technology that aims to offer fantastic value for both poker players and cryptocurrency community members alike.,103.16999999999999,4066,8551765,7857,7e-6,1e-6,0.0268
+Trustcoin,TRST,"A platform for Trusted Lending Circles, powered by people and blockchain",12.15,2826,2025596,7848,5e-6,0,0.020900000000000002
+LGO Token,LGO,Exchange with decentralized ledgers,2.8099999999999996,1694724,64225908,7778,9.800000000000001e-5,8e-6,0.3996
+MANTRA DAO,OM,"MANTRA DAO is a community-governed DeFi platform focusing on Staking, Lending, and Governance.",41.54,64522028,108249998,7740,8.800000000000001e-5,7e-6,0.3604
+Bethereum,BETHER,"Bethereum is a decentralised, social-betting platform based on Ethereum technology and Smart Contracts. Bether is the digital ERC-223 token powering the Bethereum solution.",-6.03,94887,929433,7688,0,0,0.0015999999999999999
+RefToken,REF,Decentralized Affiliate platform,NA,0,20519,7687,5e-6,0,0.0204
+4NEW,KWATT,CLEAN GREEN ENERGY FOR CRYPTO MINING,12.43,0,120708,7671,0,0,0.002
+Reputation,REPv2,Augur combines the magic of prediction markets with the power of a decentralized network to create a stunningly accurate forecasting tool,10.65,60509140,247652807,7647,0.009424999999999998,7.610000000000001e-4,38.42
+PRG,PRG,Revolutionizing all things cannabis with blockchain,NA,0,63424,7578,1e-6,0,0.0028
+Niobium,NBC,"Niobium aims to build a corporate business crypto exchange called BOMESP, powering the future of distributive economy.",17.06,559,237226,7553,1e-6,0,0.0035
+KEEP Token,KEEP,A keep is an off-chain container for private data.,15.99,3601245,247990559,7510,1.4000000000000001e-4,1.1000000000000001e-5,0.5716000000000001
+Edgeless,EDG,The Ethereum smart contract-based that offers a 0% house edge and solves the transparency question once and for all.,-0.16,356,875900,7496,2e-6,0,0.0076
+Chroma,CHR,Chromia is a relational blockchain designed to make it much easier to make complex and scalable dapps.,7.71,172175849,156702481,7391,8.6e-5,7e-6,0.34859999999999997
+Mobile Integrated Blockchain,MIB,MIB coin is a Mobile Mining based Blockchain that has constructed an ecosystem that minimizes the maintenance of Blockchain Network.,1.31,391,461052,7380,2e-6,0,0.0063
+0xBitcoin Token,0xBTC,Pure mined digital currency for Ethereum,8.12,872207,8184722,7360,2.97e-4,2.4e-5,1.21
+Pluton,PLU,"With Plutus Tap & Pay, you can pay at any NFC-enabled merchant",10.16,851458,28040258,7346,0.0037580000000000005,3.03e-4,15.32
+Genesis Vision,GVT,"A platform for the private trust management market, built on Blockchain technology and Smart Contracts.",8.209999999999999,2354835,40264163,7330,0.002223,1.7900000000000001e-4,9.06
+BLOCKv,VEE,Create and Public Digital virtual goods on the blockchain,20.979999999999997,146153,20924468,7322,2e-6,0,0.0063
+Covesting,COV,Covesting is a fully licensed distributed ledger technology (DLT) services provider incorporated under the laws of Gibraltar. We develop innovative trading tools to service both retail and institutional customers in the cryptocurrency space.,34.54,1923268,17032452,7285,2.11e-4,1.7e-5,0.8604
+Meta,MTA,"mStable is a protocol that unites stablecoins, lending, and swapping into one robust and easy to use standard.",10.07,4243517,58158324,7266,5.05e-4,4.1e-5,2.06
+Social Lending Token,SLT,Social Lending Network (SLN) is a decentralized social finance platform based on block chain technology. Its mission is to establish a next generation crypto-currency/token financial loan ecosystem.,NA,164,55168,7239,0,0,2e-4
+AltEstate token,ALT,ALT is a utility token for Alt.Estate — the IT company offering a new solution for real estate tokenization,NA,1481,619566,7206,0,0,9e-4
+https://unimex.network/,UMX,UniMex is a Uniswap based borrowing platform which facilitates the margin trading of native Uniswap assets.,16.9,176927,17656024,7203,6.45e-4,5.2000000000000004e-5,2.63
+Wootrade Network,WOO,"Wootrade is incubated by Kronos Research, which aims to solve the pain points of the diversified liquidity of the cryptocurrency market, and provides sufficient trading depth for users such as exchanges, wallets, and trading institutions with zero fees.",20.06,90566490,561337053,7196,3.09e-4,2.5e-5,1.26
+Amp,AMP,"Amp is a digital collateral token designed to facilitate fast and efficient value transfer, especially for use cases that prioritize security and irreversibility. Using Amp as collateral, individuals and entities benefit from instant, verifiable assurances for any kind of asset exchange.",16.71,7417039,2501267835,7189,1.7e-5,1e-6,0.0688
+RvT,RVT,The Decentralized & Mobile Cyber Security Token.,9.94,2108,646361,7177,6e-6,0,0.0224
+ViteToken,VITE,High-performance Decentralized Application Platform,8.55,21396337,105771843,7169,4.2000000000000004e-5,3e-6,0.17090000000000002
+SGPay,SGP,"SGPay is the payments system built for the mobile platform. It aims to combine new digital tokens, next generation innovators and modern e-payment systems together.",NA,0,35841,7158,4e-6,0,0.017900000000000003
+IPC,IPC,IPchain is a block chain product for the application in the field of intellectual property.,2.57,59682,942659,7082,7e-6,1e-6,0.0304
+Marcelo,MRL,Smart Cryptocurrency Mining,NA,0,2195,7059,0,0,0
+HyperQuant Token,HQT,HyperQuant is a professional platform for digital asset management and dApps creation that is based on the cutting-edge AI and Fast Order Delivery protocol,NA,5812,140981,7035,0,0,7e-4
+Berry,BERRY,Rentberry offers users a fully operational long-term rental platform. It leverages blockchain technology to ensure seamless rental experience.,2.06,1398,510832,7026,0,0,0.0017000000000000001
+MedToken,MTN,Medicalchain uses blockchain technology to securely store health records and maintain a single version of the truth.,39.82,3223424,6508454,7013,7e-6,1e-6,0.0284
+Energy Web Token Bridged,EWTB,"Energy Web Token (EWT) is the native token of the Energy Web Chain, a public, Proof-of-Authority Ethereum Virtual Machine blockchain specifically designed to support enterprise-grade applications in the energy sector.",-5.71,15750339,484804823,6975,0.0039559999999999994,3.19e-4,16.126800000000003
+Wrapped UST Token,UST,"The Terra blockchain is secured through distributed consensus over native staked asset Luna, and supports the issuance of price-tracking stablecoins (TerraKRW, TerraUSD, etc.) that are pegged to major world currencies.",0.36,96547627,2100331379,6967,2.45e-4,2e-5,1
+Everex,EVX,"Everex aims to enable you to transfer, borrow, and trade in any fiat currency, anywhere.",16.89,871605,20215709,6954,2.2700000000000002e-4,1.8e-5,0.9242
+Blank Token,BLANK,"Blank is a private, non-custodial Ethereum browser wallet. Blank uses smart contracts that allow users to hide the amounts and origins of cryptocurrency held, in a decentralized and frictionless manner.",24.9,1621189,34891574,6942,3.8799999999999994e-4,3.1e-5,1.58
+Monolith,TKN,Non-custodial contract wallet paired with a debit card to spend your ETH & ERC-20 tokens in real life.,12.229999999999999,144221,10147442,6916,6.8e-5,6e-6,0.2791
+Omnitude,ECOM,"Omnitude is a middleware layer allowing eCommerce businesses to adopt blockchain quickly and efficiently, without needing to replace current systems.",0.08,40635,1266629,6863,8e-6,1e-6,0.0327
+Traxia Membership Token,TMT,A decentralized global trade finance ecosystem.,15.1,1444,392725,6832,0,0,8e-4
+HUSD,HUSD,"HUSD is an ERC-20 token that is 1:1 ratio pegged with USD. It was issued by Stable Universal, an entity that follows US regulations.",0.02,1616871757,807510927,6820,2.45e-4,2e-5,0.997
+Tidal Token,TIDAL,Tidal is an insurance platform enabling custom pools to cover DeFi protocols.,6.73,445887,29512653,6778,3e-6,0,0.0131
+ATLANT,ATL,Real Estate Blockchain Platform.,NA,0,70,6740,0,0,0
+Orbs,ORBS,"Orbs is a public blockchain built for the needs of apps with millions of users, from SLAs to adjustable fee models to on-demand capacity.",20.01,20929725,268967398,6708,3.1e-5,3e-6,0.1275
+Sentivate,SNTVT,A revolutionary new Internet with a hybrid topology consisting of centralized & decentralized systems. The network is designed to go beyond the capabilities of any solely centralized or decentralized one.,14.68,1730952,83120890,6698,8e-6,1e-6,0.0335
+PoolTogether,POOL,PoolTogether is a protocol for no-loss prize games.,13.66,1071801,36795571,6672,0.004835,3.9e-4,19.71
+Moss Coin,MOC,Location-based Augmented Reality Mobile Game based on Real Estate,12.229999999999999,50487044,38862443,6574,3.5000000000000004e-5,3e-6,0.1411
+Network,NTWK,Network Learning is an e-learning platform where users who are new to cryptocurrency can come visit to learn the basics.,NA,0,19418,6569,0,0,0.0012000000000000001
+LCX,LCX,LCX Terminal is made for Professional Cryptocurrency Portfolio Management,15.07,1210918,36846339,6541,1.6000000000000003e-5,1e-6,0.0653
+Bezop,Bez,Bezop is a complete solution for running a successful ecommerce business online for new and experienced users.,13.860000000000001,4292397,573275,6452,3e-6,0,0.0103
+Cardstack,CARD,The experience layer of the decentralized internet.,-5.25,1354230,60672121,6450,5e-6,0,0.02
+OpenANX,OAX,Decentralized Exchange.,10.33,398539,17588164,6430,7.599999999999999e-5,6e-6,0.3084
+Mask Network,MASK,Mask Network allows users to encrypt content when posting on You-Know-Where and only the users and their friends can decrypt them.,3.44,56093708,171444917,6412,0.0032480000000000005,2.62e-4,13.239999999999998
+OCC,OCC,A decentralized launchpad and exchange designed for the Cardano ecosystem.,-4.33,4579450,53296071,6375,0.003523,2.84e-4,14.360000000000001
+CZR,CZR,CanonChain will be triggered from the protocol layer and the chip layer of the communication to provide a robust foundation for the entire blockchain industry.,NA,166,3049790,6328,1e-6,0,0.0032
+Fire Lotto,FLOT,Decentralized lottery platform based on the Ethereum blockchain and managed by smart contracts without any human intervention.,29.979999999999997,4777678,787526,6316,2e-6,0,0.0076
+Chi Gastoken by 1inch,CHI,"Chi Gastoken by 1inch.exchange is a more optimized gas token solution then everything existing on the market. Shorter contract address, using create2 and some assembly optimizations provide lower gas costs on minting and burning calls.",18.52,424589,8167597,6302,0.001209,9.800000000000001e-5,4.930000000000001
+PoSToken,POS,PoS Smart Contract Token.,NA,0,5646,6267,1e-6,0,0.0054
+AMLT,AMLT,The Coinfirm AMLT token solves AML/CTF needs for cryptocurrency and blockchain-related companies and allows for the safe adoption of cryptocurrencies and blockchain by players in the traditional economy.,15.78,49599,25181511,6257,1.8e-5,1e-6,0.07490000000000001
+Delphy Token,DPY,Prediction markets built on the blockchain.,11.6,40521,1162190,6225,5e-6,0,0.018500000000000003
+Kora Network Token,KNT,Kora is a digital banking solution powered by the Kora Network,NA,76,92686,6201,0,0,3e-4
+TORN Token,TORN,Tornado Cash is a fully decentralized protocol for private transactions on Ethereum.,13.9,8589625,68999169,6153,0.026831,0.002166,109.36999999999999
+BitBall,BTB,Education Portal for Newbies in Crypto World.,16.68,179420,2181923,6135,1e-6,0,0.0034000000000000002
+Beluga Banking Infrastructure Token,BBI,Provides easy-to-use tools to help merchants grow their business.,NA,0,130580,6106,6e-6,1e-6,0.026400000000000003
+Colu Local Network,CLN,A Decentralized Payment Network Powered By Communities,NA,0,1976611,6105,5e-6,0,0.019799999999999998
+UnlimitedIP Token,UIP,,11.08,1697985,13114417,6099,3e-6,0,0.0104
+AlphaToken,ALPHA,Alpha Finance Lab is an ecosystem of DeFi products and focused on building an ecosystem of automated yield-maximizing Alpha products that interoperate to bring optimal alpha to users on a cross-chain level.,6.35,170796118,661680736,6092,5.64e-4,4.600000000000001e-5,2.3
+Compound Basic Attention Token,cBAT,"Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.",6.55,2662062,159212851,6091,6e-6,1e-6,0.025400000000000002
+Illuvium,ILV,"Illuvium is a decentralized, NFT collection and auto battler game built on the Ethereum network.",27.88,4207024,55014222,6014,0.020669,0.0016689999999999997,84.25
+BEAT,BEAT,Beat aims to unleash the value of verified health and sports data using cutting edge blockchain technology.,NA,332,4575215,6000,1e-6,0,0.0037
+Archetypal Network,ACTP,Archetypal Network is an Ethereum based cloudmining smart contract miner to support real-time mining and high transaction throughput.,NA,1770,56475,5995,0,0,0
+EXRP Network,EXRN,Connecting the blockchains using crosschain gateway built with smart contracts.,2.9899999999999998,22226,4937365,5989,0,0,1e-4
+Compound Sai,cSAI,"Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.",NA,0,2412544,5976,6.7e-5,5e-6,0.27380000000000004
+HOPR Token,HOPR,HOPR provides essential and compliant network-level metadata privacy for everyone. HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange.,8.31,742047,54335552,5973,1.32e-4,1.1000000000000001e-5,0.5369
+Rating,Rating,Construct a token incentive ecosystem based on quantitative rating for cryptocurrency investors,7.430000000000001,50924,2214564,5971,0,0,5e-4
+AdBank,ADB,"Online advertising platform, middleman-free.",33.27,490701,5939854,5938,2e-6,0,0.007
+nDEX,NDX,"nDEX Network is a next generation decentralized ethereum token exchange. Our primary goal is to provide a clean, fast and secure trading environment with lowest service charge.",-2.16,0,3638823,5928,0,0,2e-4
+Marlin POND,POND,Marlin is an open protocol that provides a high-performance programmable network infrastructure for Web 3.0,20.939999999999998,21942704,121921777,5918,3.9e-5,3e-6,0.15950000000000003
+Humaniq,HMQ,Humaniq aims to be a simple and secure 4th generation mobile bank.,41.97,192278,2313334,5900,3e-6,0,0.0128
+Streamity,STM,Streamity - It is as easy to exchange crуptоcurrеncy to any type of money as sending cash to your mobile phone,8.01,0,706475,5864,5e-6,0,0.0196
+Vibe Coin,VIBE,Crypto Based Virtual / Augmented Reality Marketplace & Hub.,60.02,41728,5985226,5773,8e-6,1e-6,0.0316
+Curate,XCUR,Curate is a shopping rewards app for rewarding users with free cashback and crypto on all their purchases.,9.39,6565291,32598902,5750,0.001496,1.21e-4,6.1
+TGAME,TGAME,The trusted smart contracts based IGaming platform,0.65,6370,149864,5658,0,0,0.0017000000000000001
+Nectar,NCT,Decentralized marketplace where security experts build anti-malware engines that compete to protect you.,1.43,34673,21790480,5643,3e-6,0,0.014
+LALA,LALA,LaLa is a new age one-stop Wallet based on ethereum and hyperledger blockchains allowing investors to capitalise on the rise of blockchain as well as the underbanked into the financial ecosystem.,5.17,0,113883,5630,0,0,5e-4
+Datarius Credit,DTRC,Datarius cryptobank is a decentralized partially closed system.,9.92,59,109412,5626,0,0,8e-4
+SPANK,SPANK,A cryptoeconomic powered adult entertainment ecosystem built on the Ethereum network.,5.619999999999999,36986,22675722,5605,9e-6,1e-6,0.0373
+ZAP TOKEN,ZAP,Zap project is a suite of tools for creating smart contract oracles and a marketplace to find and subscribe to existing data feeds that have been oraclized,7.119999999999999,1687916,34732156,5598,3.5000000000000004e-5,3e-6,0.14170000000000002
+Compound USDT,cUSDT,"Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.",0.06,24840579,620957952,5571,5e-6,0,0.0212
+iQeon,IQN,"decentralized PvP gaming platform integrating games, applications and services based on intelligent competitions between users created to help players monetize their in-gaming achievements.",4.859999999999999,1060692,17039389,5569,7.51e-4,6.1e-5,3.06
+VesperToken,VSP,"Vesper provides a suite of yield-generating products, focused on accessibility, optimization, and longevity.",10.46,5281427,100081321,5568,0.0075509999999999996,6.1e-4,30.779999999999998
+TrakInvest Token,TRAK,Virtual social trading platform for equities and cryptocurrencies powered by proprietary AI engine,NA,0,147852,5530,0,0,0.0018
+DOVU,DOV,"DOVU, partially owned by Jaguar Land Rover, is a tokenized data economy for DeFi carbon offsetting.",22.66,919477,11781076,5510,1e-5,1e-6,0.0396
+Robotina token,ROX,"Internet of things, artificial intelligence and blockchain empowering energy consumers",28.07,196,2190095,5508,2e-6,0,0.0084
+Gemini dollar,GUSD,Gemini dollar combines the creditworthiness and price stability of the U.S. dollar with blockchain technology and the oversight of U.S. regulators.,-0.27,10286280,81778468,5482,2.42e-4,2e-5,0.9883
+XinFin XDCE,XDCE,Hybrid Blockchain technology company focused on international trade and finance.,4.75,9887375,984084967,5467,2e-5,2e-6,0.0796
+Wrapped NXM,wNXM,Blockchain based solutions for smart contract cover.,12.719999999999999,47404357,236712889,5408,0.027615999999999998,0.00223,112.57
+Plasma,PPAY,"PPAY is designed as the all-in-one defi service token combining access, rewards, staking and governance functions.",7.78,1970855,27293980,5406,4.4000000000000006e-5,4e-6,0.17990000000000003
+UltrainGas,UGAS,Ultrain Technology Limited is the next generation public-blockchain technology venture that focuses on building a high performance decentralized blockchain platform through its programmable tech-infrastructure.,12.450000000000001,1376911,8316551,5384,7e-6,1e-6,0.0293
+REMME,REM,Distributed Public Key Infrastructure (PKI) protocol with a set of DApps to enable passwordless authentication,2.4099999999999997,120509,3505967,5372,1e-6,0,0.0038
+FintruX Network,FTX,The Global P2P Lending Ecosystem Powered By Ethereum And No-Code Development.,9.75,1649,2127731,5363,6e-6,1e-6,0.025500000000000002
+Tracto,TRCT,A technology for rapid and anonymous coin transaction organization.,NA,0,6700,5336,0,0,2e-4
+SWARM,SWM,Aims to be the Blockchain for Private Equity.,12.7,13737,11874039,5295,3.7e-5,3e-6,0.1521
+Antimatter.Finance Governance Token,MATTER,AntiMatter is a lightweight on-chain DeFi perpetual derivative protocol based on a polarized token model.,8.629999999999999,385053,15347865,5278,3.7e-4,3e-5,1.51
+Melon Token,MLN,"Enzyme is a way to build, scale, and monetize investment strategies",4.8,6646183,146018935,5256,0.026745,0.002159,109.02
+Themis,GET,"Themis is a trusted blockchain infrastructure based on group escrow service,
+the problmes of fair exchanges which using cryptocurrencies as the medium, and helping to build a new generation of trusted network.",6.57,211506,56305,5235,1e-6,0,0.0049
+OriginSport Token,ORS,A blockchain based sports betting platform,10.62,328370,1521985,5231,2e-6,0,0.0079
+Hegic,HEGIC,Hegic is an on-chain peer-to-pool options trading protocol built on Ethereum.,12.62,4920727,95572506,5217,4.600000000000001e-5,4e-6,0.1878
+Goldmint MNT Prelaunch Token,MNTP,"The GoldMint Company is a global network of Custody Bot terminals, both proprietary and franchised. They are designed to implement the exchange of physical gold to local fiat currency or GOLD cryptocurrency and vice versa.",2.4499999999999997,500,766051,5207,1.0400000000000001e-4,8e-6,0.42540000000000006
+mStable USD,mUSD,"The mStable Standard is a protocol with the goal of making stablecoins and other tokenized assets easy, robust, and profitable.",1.24,31071,36169127,5167,2.48e-4,2e-5,1.01
+Aergo,AERGO,Aergo is an open platform that allows businesses to build innovative applications and services by sharing data on a trustless and distributed IT ecosystem.,3.88,4711878,70917754,5105,6.6e-5,5e-6,0.26780000000000004
+NapoleonX,NPX,The crypto asset manager piloting trading bots.,12.08,6852,10393794,5056,1.01e-4,8e-6,0.41030000000000005
+Lendingblock,LND,"Lendingblock is an open exchange for cryptocurrency loans, where borrowers and lenders are instantly matched in simple, safe and transparent way.",32.449999999999996,1914,1682760,5044,1e-6,0,0.0021
+Litentry,LIT,Litentry is a Decentralized Identity Aggregator that enables linking user identities across multiple networks.,13.239999999999998,24661080,132153877,5020,0.001793,1.4500000000000003e-4,7.31
+ChartEx,CHART,"ChartEx is a leading provider of full Candlestick charting for markets on Uniswap, the largest Decentralized Exchange running on the Ethereum Network. ChartEx is expanding to support other DEX platforms and chains and a wide range of trading tools to support are in active development.",13.79,116505,4797654,5019,1.4000000000000001e-5,1e-6,0.0579
+On.Live,ONL,The marketplace for paid advice live broadcast and computing power,NA,473,527630,5004,6e-6,0,0.0241
+DAPSTOKEN,DAPS,The DAPS project plans to create the world's first fully private blockchain that also maintains the 'Trustless' structure of traditional public blockchains.,565.23,2927,30136021,5003,0,0,5e-4
+Darico Ecosystem Coin,DEC,"Darico’s complete solution lets you monitor, trade, invest and spend your cryptocurrencies all from one integrated ecosystem.",NA,409,19318823,4978,7.5e-5,6e-6,0.3066
+eBitcoin,EBTC,The eBitcoin Ecosystem aims to bring together many Blockchain companies all under one umbrella-type group.,NA,0,45,4948,0,0,0
+Thingschain,TIC,Platform for IoT devices based on blockchain technology. It uses a multilayered architecture which provides a solution to the issues faced by current blockchains like lack of scalability and low transaction throughput rate.,-22.99,1289,278362,4945,0,0,0
+OTCBTC Token,OTB,OTCBTC is a blockchain OTC and crypto exchange platform.,50.9,46029,1861690,4919,6e-6,1e-6,0.026000000000000002
+CoinUs,CNUS,CoinUs is a integrated business platform with focus on individual's value and experience to provide Human-to-Blockchain Interface.,4.92,17,1117993,4902,0,0,0.0018
+Cofoundit,CFI,Cofound.it is a platform that connects you to teams that have trained to become serious blockchain businesses,NA,0,5214430,4866,4e-6,0,0.016
+HPBCoin,HPB,"HPB (High-Performance Blockchain) is a block chain hardware and software architecture, which includes chip acceleration aiming to realize the performance extensions of distributed applications",11.39,2334190,12014006,4857,7.699999999999999e-5,6e-6,0.3144
+Airbloc,ABL,"AIRBLOC is a decentralized personal data protocol where individuals would be able to monetize their data, and advertisers would be able to buy these data to conduct targeted marketing campaigns for higher ROIs.",0.32999999999999996,143517,13771638,4854,1.2e-5,1e-6,0.0494
+Kind Ads Token,KIND,Kind Ads is an advertising platform that serves user-friendly ads through more effective channels like email and push notifications.,1.1700000000000002,105,195085,4812,1e-6,0,0.0057
+DEW,DEW,"DEW is a Decentralized Exchange and also a gateway to the global blockchain securities market, through an almighty account, you can trade Blockchain Assets, Stocks, Futures, Forex, ETF, Bet Contract etc.",NA,0,8327635,4803,2e-5,2e-6,0.08070000000000001
+Mindexcoin,MIC,Mindexcoin (MIC) is a token that enables data operations in the Ethereum Decentralized Network.,NA,14,91165,4789,1e-6,0,0.0023
+KuCoin Token,KCS,"KCS performs as the key to the entire KuCoin ecosystem, and it will also be the native asset on KuCoin’s decentralized financial services as well as the governance token of KuCoin Community.",8.219999999999999,32922355,940303431,4779,0.0029,2.34e-4,11.82
+Pangea Arbitration Token,PAT,Decentralised Borderless Voluntary Nation (DBVN),NA,0,6670703,4744,0,0,2e-4
+XIO Network,XIO,"Blockzero is a decentralized autonomous accelerator that helps blockchain projects reach escape velocity. Users can help build, scale, and own the next generation of decentralized projects at blockzerolabs.io.",15.94,76471,19535861,4729,1.3000000000000002e-4,1.1000000000000001e-5,0.5318
+Function X,FX,"Function X is an ecosystem built entirely on and for the blockchain. It consists of five elements: f(x) OS, f(x) public blockchain, f(x) FXTP, f(x) docker and f(x) IPFS.",6.17,1136744,151040099,4713,1.4700000000000002e-4,1.2e-5,0.5997
+Sharder,SS,Multi-chain storage & validation network.,22.130000000000003,8574,2479561,4707,3e-6,0,0.0109
+BoutsPro,BOUTS,Professional Karate Sports Organization,-17.17,412,511006,4684,3e-6,0,0.0105
+FaithCoin,FAITH,FaithCoin is the secure Ethereum token embedded with prayer and bible verses.,NA,0,6699,4576,0,0,9e-4
+Hiveterminal Token,HVN,A blockchain based platform providing you fast and low-cost liquidity.,-3.56,387170,18151444,4558,1.2e-5,1e-6,0.0505
+Dapp Token,DAPPT,"A platform to discover and analyze thousands of ranked dapps built on Ethereum, EOS, Steem, Tron, TomoChain, IOST and Blockstack.",-4.7700000000000005,6475863,11277901,4543,2e-6,0,0.0081
+Talao,TALAO,Reputation Protocol and Decentralized Marketplace based on Ethereum blockchain,NA,0,565464,4519,1.4000000000000001e-5,1e-6,0.0553
+Digg,DIGG,Digg is an elastic bitcoin-pegged token and governed by BadgerDAO.,2.77,463225,39453799,4516,1.2425789999999999,0.907726,45827
+Shadows Network,DOWS,"Shadows is a hub for issuing, trading, lending and borrowing synthetic assets.",13.8,274634,9779661,4510,2.5e-4,2e-5,1.02
+Hakka Finance,HAKKA,Hakka decentralized finance ecosystem. Warped spacetime with crypto native primitives.,7.94,1524345,17311612,4483,2.2000000000000003e-5,2e-6,0.08929999999999999
+DMarket,DMT,a blockchain-based cross-game universe for turning virtual items into real assets.,4.359999999999999,3535819,50479224,4477,2.42e-4,2e-5,0.9874999999999999
+Offshift,XFT,Offshift is a cryptographically private offshore storage & DeFi protocol on Ethereum.,-0.27,173269,7247046,4471,5.960000000000001e-4,4.8e-5,2.4299999999999997
+Fei USD,FEI,"Fei Protocol ($FEI) represents a direct incentive stablecoin which is undercollateralized and fully decentralized.
+FEI employs a stability mechanism known as direct incentives - dynamic mint rewards and burn penalties on DEX trade volume to maintain the peg.",3.48,39196088,1023509306,4447,2.43e-4,2e-5,0.99
+Coinvest COIN V3 Token,COIN,Coinvest is a trading platform (and market maker) where you make investment transactions and redeem profit from your trades through a process that is decentralized and handled by smart contracts.,2.5,401444,27976703,4446,8.400000000000001e-5,7e-6,0.3433
+TEAM,TEAM,"TEAM is a utility token for TokenStars - the talent management platform, that connects sports & entertainment stars with fans and advertisers, bringing interaction between them to a new level.",-14.55,2404,78379,4445,2e-6,0,0.0075
+Tokia,TKA,Mobile exchange & Digital currency wallet,NA,0,34494,4440,0,0,8e-4
+Dether,DTH,"A peer-to-peer ecosystem of crypto buyers, sellers and physical shops.",-4.63,4879,2112561,4414,6e-6,0,0.024900000000000002
+Quickswap,QUICK,QuickSwap is a Layer 2 DEX powered by Matic Network.,18.650000000000002,30796148,128866702,4397,0.196529,0.015868,801.09
+LocalCoinSwap Cryptoshare,LCS,"Directly trade any cryptocurrency, using any conceivable payment method, in any geographical location.",9.98,769,1613652,4397,1e-5,1e-6,0.0422
+BlockCAT,CAT,"BlockCAT lets anyone create, manage, and deploy smart contracts on the Ethereum blockchain with just a few clicks. No programming required.",NA,0,114790,4396,4e-6,0,0.0156
+ChangeBank,CAG,"The Reward Token (CAG) is a token of Change’s investment platform. The Change investment app and debit card provide a way to use cryptocurrencies, stocks, gold, and more.",133.23999999999998,13910,2803582,4389,3.5000000000000004e-5,3e-6,0.14250000000000002
+LOCIcoin,LOCI,Platform for Intellectual Property Discovery and Mining.,NA,431,122313,4368,1e-6,0,0.003
+PolkaFoundry,PKF,PolkaFoundry is a platform for making DeFi dapps on Polkadot ecosystem. It comes with some DeFi-friendly services and intergrates with external ones to facilitate the creation of dapps.,16.939999999999998,481460,18708987,4359,2.99e-4,2.4e-5,1.22
+Decision Token,HST,Horizon State has built a token-based blockchain voting and decision-making platform that delivers unprecedented trust through the integrity and post-unforgeable attributes of blockchain technology.,NA,0,5065,4339,0,0,1e-4
+Real Estate Asset Ledger,REAL,Real Estate Blockchain innovations.,NA,0,399,4333,0,0,0
+LAtoken,LA,"LATOKEN aims to transform access to capital, and enables cryptocurrencies to be widely used in the real economy by making real assets tradable in crypto.",27.29,1572270,16036780,4323,6.4e-5,5e-6,0.2589
+UnmarshalToken,MARSH,"Unmarshal is the multichain DeFi Data Network. It provides the easiest way to query Blockchain data from Ethereum, Binance Smart Chain, and Polkadot.",11.61,883756,30028585,4269,9.4e-4,7.599999999999999e-5,3.8299999999999996
+TESLA,TSL,Energo Labs integrates blockchain into the energy sector to establish Decentralized Autonomous Energy (DAE) communities where energy is a digital asset that can be traded for several applications.,12.34,3430,413470,4261,0,0,7e-4
+Ethereum Blue,BLUE,BLUE is anERC20 token built from the ground-up to facilitate payments and transfers without sacrificing your security.,5.09,4692654,1459959,4241,1e-5,1e-6,0.0398
+YOP,YOP,Yield Optimization Platform aims to provide a DeFi service for everyone with an all-in-one Mobile yOptimization Application.,24.22,1697491,17045048,4239,4.1200000000000004e-4,3.3e-5,1.6800000000000002
+Ormeus Coin,ORME,Ormeus Coin is a new digital money system backed by an industrial crypto mining operation,31.6,4938,353266,4196,5e-6,0,0.0207
+Tokenomy,TEN,Blockchain Project Launchpad & Token Exchange,13.47,682343,7916021,4195,1.7e-5,1e-6,0.06770000000000001
+Portion Token,PRT,"Portion is an online marketplace connecting artists and collectors through Blockchain technology to easily sell, invest and own art and collectibles with complete transparency.",7.7,109442,11661757,4189,1.7e-5,1e-6,0.0692
+ConnectJob,CJT,"ConnectJob, Decentralized App to offer users to pay services with crypto.",2.8,5,61622,4185,0,0,5e-4
+CryCash,CRC,"CRYCASH is the first cryptocurrency that satisfies all needs of gamers and game developers with its Ecosystem of custom-tailored services. CRYCASH has already confirmed integration into the renowned bestsellers from Crytek, with more partners to come. Connect with tomorrow’s technology today!",11.59,15973,339004,4165,1.7e-5,1e-6,0.07
+VisionX,VNX,VisionX bridges companies across industries for AI Solutions,1.71,4284,35439,4161,0,0,0
+Non-Fungible Yearn,NFY,Non-Fungible Yearn is a DeFi platform aims to utilize the full potential of Non-Fungible Tokens (NFTs) in the DeFi sector. The platform will allow user to stake their various cryptocurrency holdings in multiple different pools to earn governance token - NFY.,15.49,335191,19195586,4124,0.06676800000000001,0.005391,272.16
+EngagementToken,EGT,Rewarding publishers and creators.,NA,0,7591,4115,0,0,0
+SkinCoin,SKIN,SkinCoin is a multipurpose cryptocurrency for gaming industry.,-7.67,39139,279574,4054,1e-6,0,0.003
+Patientory,PTOY,"PTOY is the native token of PTOYMatrix, the HIPAA compliant blockchain enabled Health Information Exchange and Storage System. The token provides unit economics for health data auditability and access to the PTOYMatrix which aims to ensure access to healthcare information is secure and encrypted.",-0.23,20461,2425123,4046,7e-6,1e-6,0.0288
+Mallcoin Token,MLC,"An international e-commerce site created for users from all over the world, who sell and buy various products and services with tokens.",-1.85,0,2762994,3974,4e-6,0,0.0157
+TIME,TIME,"ChronoBank.io is a wide-ranging blockchain project, aimed at disrupting the HR/recruitment/finance industries",42.660000000000004,148624,9758389,3972,0.0033610000000000003,2.7100000000000003e-4,13.7
+GRID,GRID,"Grid+ creates products that enable mainstream use of digital assets and cryptocurrencies. Grid+ strives to be the hardware, software, and cryptocurrency experts building the foundation for a more efficient and inclusive financial future.",7.02,209413,11573320,3960,7.199999999999999e-5,6e-6,0.2947
+STASIS EURS Token,EURS,EURS token is a virtual financial asset that is designed to digitally mirror the EURO on the condition that its value is tied to the value of its collateral.,2.9,803342,40636199,3922,3.12e-4,2.5e-5,1.27
+Falcon,FNT,Falcon Project it's a DeFi ecosystem which includes two completely interchangeable blockchains - ERC-20 token on the Ethereum and private Falcon blockchain. Falcon Project offers its users the right to choose what suits them best at the moment: speed and convenience or anonymity and privacy.,14.58,76733,18190268,3896,0,0,0.002
+PitisCoin,PTS,MyPW is a multi crypto wallet.,NA,0,43891,3896,0,0,1e-4
+Yuan Chain New,YCC,,3.14,455638,97669186,3870,5e-6,0,0.021500000000000002
+Moeda Loyalty Points,MDA,"Moeda is a cooperative banking system powered by blockchain, built for everyone.",5.930000000000001,4650193,28652359,3857,3.58e-4,2.9e-5,1.46
+FLIP,FLP,FLIP CRYPTO-TOKEN FOR GAMERS FROM GAMING EXPERTS,-13.29,186,442703,3855,2e-6,0,0.0079
+Sentinel Chain,SENC,B2B marketplace specifically designed to provide affordable and secure financial services to the unbanked,-0.74,59572,744860,3850,1e-6,0,0.0024000000000000002
+VOISE,VOISE,Block-Chain Powered Music Platform.,NA,0,1548,3823,0,0,0
+Verify,CRED,A distributed reputation protocol built on the Ethereum blockchain.,NA,0,186458,3808,3e-6,0,0.012
+OSAToken,OSA,"Real-life blockchain and AI application for retail, the world’s biggest industry",0.7,5767,201649,3805,0,0,1e-4
+Trident Group,TRDT,"The Trident Group Cryptographic Token (TRDT) is the lifeblood of the Trident Blockchain Platform, allowing the instant & secure transmission of information worldwide while securing the Trident Network.",NA,0,201,3795,0,0,2e-4
+AirToken,AIR,"AirToken is an Ethereum-based ERC-20 digital utility token that facilitates the transfer of mobile airtime, data and currency, as well as payments for goods and services, with minimal friction and fees.",NA,0,1550734,3792,0,0,0.0015
+GAT,GAT,"GATCOIN aims to transform traditional discount coupons, loyalty points and shopping vouchers into liquid, tradable digital tokens.",NA,468,1828605,3783,1e-6,0,0.0027
+ModulTrade Token,MTRc,A smart-contract open ecosystem providing small businesses access to global trade by using a crypto token for payment or borrowing.,NA,0,56211,3774,0,0,0.0015
+PKG Token,PKG,"Decentralized game platform operating on Blockchain, using the VR/AR technologies and machine learning tool to enhance the experience of playing games and purchasing digital goods in games.",-18.84,123,517086,3754,0,0,1e-4
+Tapmydata,TAP,"The Tapmydata solution is a framework of tools, ledger and decentralised protocol for people to reclaim their digital identity, crystallise unique, verified elements of consent in an NFT and provide a new, transparent channel for legitimate counterparties to blend data and exchange value.",6.99,253026,3829861,3753,9.6e-5,8e-6,0.3919
+CargoX,CXO,"CargoX aims to be the independent supplier of blockchain-based Smart B/L solutions that enable extremely fast, safe, reliable and cost-effective global Bill of Lading processing.",-14.629999999999999,155754,39406627,3732,5.8e-5,5e-6,0.23720000000000002
+Compound 0x,cZRX,"Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.",11.01,10608,212871606,3710,9e-6,1e-6,0.0353
+Own,CHX,Own (formerly Chainium) is a security token blockchain project focused on revolutionising equity markets.,32.78,41083,2755890,3708,5e-6,0,0.0192
+Crowd Machine Compute Token,CMCT,"Crowd Machine is an advanced distributed computer.
+Embedded within the computer is an app development engine that requires no coding, enabling anyone to create decentralized apps and smart contracts without limitation.",2.15,984,440102,3695,0,0,3e-4
+AVT,AVT,An open-source protocol that delivers the global standard for ticketing.,16.14,331663,7429285,3682,2.22e-4,1.8e-5,0.9034
+ORIUM,ORM,Game utility token,1.47,0,3909,3679,0,0,0
+Metronome,MET,A new cryptocurrency focused on making greater decentralization possible and delivering institutional-class endurance.,7.53,74267,61945304,3667,0.001303,1.05e-4,5.31
+PAR Stablecoin,PAR,Mimo is a company building DeFi tools in the hope to make blockchain more usable to everyone. They have a lending platform allowing people to borrow PAR and their stable token is algorithmically pegged to the Euro.,2.7600000000000002,495268,2732307,3661,2.99e-4,2.4e-5,1.22
+fidentiaX,fdX,Marketplace for Tradable Insurance Policies,NA,0,218545,3660,1e-6,0,0.0021
+FUTURAX,FTXT,Cryptocurrency exchanger platform.,NA,6,3827742,3633,0,0,5e-4
+NXM,NXM,Nexus Mutual uses the power of Ethereum so people can share risks together without the need for an insurance company.,10.850000000000001,22858,1088105743,3630,0.03856,0.003113,157.18
+Xaurum,Xaurum,"Xaurum is unit of value on the golden blockchain, it represents an increasing amount of gold and can be exchanged for it by melting",24.85,40438,1983041,3615,7e-6,1e-6,0.0279
+PIX,PIX,"Lampix - a hardware and software solution that aims to turn any surface into a smart, augmented reality [or interactive] surface.",NA,0,114051,3612,0,0,8e-4
+Public Mint,MINT,"Public Mint offers a fiat-native blockchain platform open for anyone to build fiat-native applications and accept credit cards, ACH, stablecoins, wire transfers and more.",11.88,65795,14441563,3607,1.54e-4,1.2e-5,0.6296
+SunContract,SNC,"The SunContract platform aims to empower individuals, with an emphasis on home owners, to freely buy, sell or trade electricity.",3.14,453894,5886213,3598,1.2e-5,1e-6,0.0478
+Uquid Coin,UQC,"The goal of this blockchain asset is to supplement the development of UQUID Ecosystem. In this virtual revolution, coin holders will have the benefit of instantly and effortlessly cash out their coins.",10.42,5051273,242467997,3597,0.005927,4.7900000000000004e-4,24.16
+Auctus,AUC,"The world's first retirement plan platform with traditional and cryptocurrency assets, powered by smart contracts & robo advisory.",7.59,24807,7816381,3594,5.5e-5,4e-6,0.2227
+dHedge DAO Token,DHT,"dHEDGE is a decentralized asset management protocol connecting investment managers with investors on the Ethereum blockchain in a permissionless, trustless fashion.",2.79,2818191,23484202,3586,5.03e-4,4.1e-5,2.05
+TrueDeck,TDP,"TrueDeck is a unified blockchain-based platform built for the online casino industry. TrueDeck provides a medium of exchange for all actors involved i.e. players, developers, operators etc.",5.859999999999999,44069,852696,3586,5e-6,0,0.021300000000000003
+Origo,OGO,The Privacy Preserving Platform for Decentralized Applications,0.44,799887,2431480,3578,4e-6,0,0.0147
+EthereumMovieVenture,EMV,Ethereum Movie Venture is a blockchain based movie platform.,NA,0,331091,3572,1.2e-5,1e-6,0.0504
+Devery.io,EVE,"A blockchain powered, open-source, product verification protocol.",NA,32275,2697833,3564,1.1000000000000001e-5,1e-6,0.0429
+IPSX,IPSX,"Blockchain based system fully automated, with full clearing of utility tokens associating the price and distribution based on offer and demand for IPs",NA,17,180619,3563,0,0,2e-4
+Boxx,BOXX,An Event Ticketing Blockchain Protocol,NA,0,51089,3562,0,0,0.0015999999999999999
+UREEQA Token,URQA,"UREEQA is a platform for Protecting, Managing and Monetizing creative work.",-0.06,377405,9278021,3557,2.03e-4,1.6000000000000003e-5,0.8258000000000001
+Jarvis Reward Token,JRT,"Jarvis is a non-custodial financial ecosystem which allows you to manage your assets, from payment to savings, trade any financial markets with any collateral and access any Dapps.",14.99,150443,19320127,3553,3.9e-5,3e-6,0.1605
+Sugar Exchange,SGR,"Sugar Exchange aims to be a new type of cryptocurrency trading platform utilizing proven methods, as well as implementing advanced technology to ensure a superior user experience.",NA,44,8936,3553,0,0,4e-4
+JSE Token,JSE,JSEcoin is a consumer focused web platform built on top of a browser mined blockchain,5.17,0,44232,3551,0,0,1e-4
+Eden Coin,EDN,"EdenChain is a blockchain platform that allows for the capitalization of any and every tangible and intangible asset such as stocks, bonds, real estate, and commodities amongst many others.",-0.12000000000000001,236955,3320018,3537,1e-6,0,0.0055
+USDK,USDK,USDK-Stablecoin Powered by Blockchain and US Licenced Trust Company,-1.21,358479181,32505590,3536,2.43e-4,2e-5,0.992
+xToken,XTK,xToken is a native governance and staking token.,35.760000000000005,3207323,10865008,3478,6.2e-5,5e-6,0.2544
+Coinchase Token,CCH,"Coinchase is a community-based cryptocurrency financial services network. Services including: Blockchain crowdfunding, cryptocurrency savings, cryptocurrency lending, and cryptocurrency games.",NA,86,27374,3478,0,0,0
+AXNET,AXN,Centralized & Decentralized Exchange,NA,0,181657,3475,0,0,6e-4
+Decent.Bet,DBET,"An open-source blockchain peer-to-peer gaming platform where anyone with an idea can build a game, a predictive market, or a casino room and share in the revenue.",-25.779999999999998,0,253173,3452,2e-6,0,0.0101
+NeuroChain Clausius,NCC,Implementing AI Into the Heart of the Blockchain,4.6499999999999995,11320,1074395,3439,1e-6,0,0.0026
+Tolar Token,TOL,"Tolar is an open source, community governed crypto-currency featuring scalable, fast, secure, and fair transactions.",5.06,48358,2331096,3428,3e-6,0,0.0105
+Starbase,STAR,Starbase is a blockchain token based crowdfunding/ sourcing platform,-1.7,45361,468403,3428,1e-6,0,0.0022
+PolyAi,AI,"POLY AI was made with the purpose of attracting investments, in order to serve the AI developing project.",NA,0,223,3411,0,0,1e-4
+CashBetCoin,CBC,Casino Betting Coin (CBC) is a cryptocurrency token and operates on the Ethereum platform. CBC is a cryptocurrency designed specifically for use within the gaming sector. It is a token of exchange that players can accumulate to gain benefits.,0.11,636445,15559195,3405,1.8e-5,1e-6,0.0738
+InsurePal,IPL,Distributed social proof insurance.,11.719999999999999,827,434604,3378,0,0,0.0019
+Amon,AMN,"Amon Wallet allows you to manage all your assets in one place, with a top-level user experience.",-1.3,21318,6461701,3337,2e-6,0,0.009399999999999999
+FOAM Token,FOAM,The FOAM Proof of Location protocol is a permissionless and autonomous network of radio beacons that can offer secure location services independent of external centralized sources such as GPS,8.27,79190,25197498,3287,1.7e-5,1e-6,0.07120000000000001
+BezantToken,BZNT,A decentralized payment platform enabling the creation of robust applications,-88.32,819,104574,3283,0,0,2e-4
+Feed,IFT,We are building the world's first NEXT-GEN CRYPTOCURRENCY SOCIAL NETWORK.,NA,0,63025,3278,0,0,3e-4
+SwarmCity,SWT,Swarm City is a decentralized peer to peer sharing economy,3.53,58,734640,3230,2.1000000000000002e-5,2e-6,0.08610000000000001
+TrueFi,TRU,TrueFi is a DeFi protocol for uncollateralized lending powered by the TRU token. TRU Stakers to assess the creditworthiness of the loans,6.819999999999999,4332008,93202050,3215,9.2e-5,7e-6,0.3753
+Fractal Protocol Token,FCL,"The Fractal Protocol is an open-source protocol designed to rebalance the incentives that make a free and open Web work for all. It builds a new equilibrium that respects user privacy, rewards content creators, and protects advertisers from fraud.",3.77,565375,36327222,3209,1.9600000000000002e-4,1.6000000000000003e-5,0.7987
+Woofy,WOOFY,Wuff wuff.,24.18,3945144,19445047,3199,1.9e-5,2e-6,0.0791
+Sharpay,S,Sharpay is the share button with blockchain profit,-0.39,5091,498214,3168,0,0,2e-4
+GHOST,GHOST,GHOST is a Proof of Stake privacy coin to help make you nothing but a 'ghost' when transacting online!,-4.970000000000001,264634,8160417,3167,1.23e-4,1e-5,0.5
+Tellor Tributes,TRB,Tellor is a decentralized oracle that provides an on-chain data bank where staked miners compete to add the data points.,16.310000000000002,99337318,184455285,3157,0.027057,0.002185,110.29
+DeltaChain Token,DELTA,"DeltaChain inherits and develops the Ethereum technology platform, with open source P2P accelerates all transactions quickly, minimises risk, enhances high security, and does not involve any third parties.",NA,1,272527,3143,0,0,0
+Bigbom,BBO,"Bigbom Eco serves as a decentralized advertising ecosystem for all parties involved in online advertising, inclusive of advertisers, service providers, content publishers, advertising channels, platforms and more.",NA,89617,293637,3117,0,0,8e-4
+NimiqNetwork,NET,A Browser-based Blockchain & Ecosystem,3.21,1425053,76378374,3112,2e-6,0,0.0098
+blocktrade,BTT,"Blocktrade.com is a trading facility for Crypto Assets, Crypto Traded Indices, and other blockchain related Financial Instruments.",NA,0,195,3091,0,0,0
+Opus,OPT,Decentralised music platform built on Ethereum and IPFS.,14.47,734,620537,3012,1e-6,0,0.0044
+Hacken,HKN,Global Tokenized Business with Operating Cybersecurity Products.,NA,0,713353,3009,3.2e-5,3e-6,0.13
+BDT Token,BDT,"The ICO market is becoming more regulated, but this isn’t stopping scams from penetrating the cryptocurrency community. That is why we created the Founding Community Bitdepositary with integrated payment systems.",NA,0,3333331,2962,8e-6,1e-6,0.0327
+Flixx,FLIXX,Community based video distribution.,8.25,21022,2003398,2954,1e-5,1e-6,0.039
+Digital Reserve Currency,DRC,Digital Reserve Currency (DRC) was designed to become a decentralized digital store of value with a limited supply and a zero inflation rate. The token is fully developed and operational and its holders are immediately able to use it for its intended functionality on Ethereum blockchain.,9.48,939120,10697668,2940,3e-6,0,0.0107
+SENTinel,SENT,A modern VPN backed by blockchain anonymity and security.,7.159999999999999,35372,41530904,2907,5e-6,0,0.0208
+Frax Share,FXS,"Frax is a fractional-algorithmic stablecoin protocol. Frax is open-source, permissionless, and entirely on-chain – currently implemented on Ethereum. The end goal of the Frax protocol is to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.",2.9299999999999997,5129293,55412208,2899,0.0012170000000000002,9.800000000000001e-5,4.96
+Global Messaging Token,GMT,Communication Platforms Built on the Ethereum Blockchain.,NA,16,630089,2880,1e-6,0,0.005
+PieDAO DOUGH v2,DOUGH,DOUGH is the PieDAO governance token. Owning DOUGH makes you a member of PieDAO. Holders are capable of participating in the DAO’s governance votes and proposing votes of their own.,-3.2600000000000002,842210,22915827,2815,3.85e-4,3.1e-5,1.57
+Mozo Token,MOZO,Mozo Project is a blockchain-based solution designed to help brick & mortar retailers drive foot traffic to their venues.,NA,0,792416,2812,0,0,0.001
+Zippie,ZIPT,The Zipper token pre-sale concluded on the 3rd of January 2018 after reached the $3M hard cap one day before the planned end date.,29.99,6490,2454421,2786,1e-6,0,0.0061
+MEDX TOKEN,MEDX,Decentralized healthcare information system,-1.76,124540,12823655,2761,1e-6,0,0.0037
+BAC,BAC,"Basis Cash has two farmable tokens - Basis Cash, a stable coin that seeks to be valued at $1 and Basis Share, an ownership token which receives inflationary rewards from Basis Cash, deriving value from the increased adoption of Basis Cash.",3.22,337099,15299021,2740,6.7e-5,5e-6,0.2736
+Linkey Token,LKY,A platform to connect digital assets to real community.,NA,0,956924,2739,5e-6,0,0.0191
+ELTCOIN,ELTCOIN,Ethereum Limited Total Coin,-1.73,23193,126303,2734,0,0,0.0014
+APYSwap,APYS,APYSwap is a protocol for the decentralised exchange of shares of Tokenized Vaults.,-1.1800000000000002,1113964,17386638,2703,4.64e-4,3.7e-5,1.8900000000000001
+EvenCoin,EVN,EvenCoin is a new self-mining smart contract where no hardware is required to mine EvenCoin but it gets mining in parallel to even numbers of Ethereum blocks with ERC20 compliant with a total supply of 100 Million coins.,-4.17,219205,62005,2680,1e-6,0,0.0036
+TaTaTu,TTU,Social Entertainment Platform with an integrated rewards programme.,NA,0,1721318,2673,4e-6,0,0.0178
+Mothership,MSP,Cryptocurrency exchange built from the ground up to support cryptocurrency traders with fiat pairs.,NA,3,10145148,2670,1.4000000000000001e-5,1e-6,0.056600000000000004
+renBTC,renBTC,renBTC is a one for one representation of BTC on Ethereum via RenVM.,4.609999999999999,15311519,601134539,2666,2.3431140000000004,0.9965829999999999,50313
+Ethereum Gold,ETG,Ethereumgold is a nonprofit that aims to connects people to low-cost financial services to fight poverty and develop individual potential.,-24.479999999999997,1769,947387,2645,1.3000000000000001e-5,1e-6,0.05260000000000001
+BananaCoin Extended,BCO,"first environmentall friendly plantation in Laos which has released a utility token based on Ethereum, pegged to the export price of 1 kg of bananas.",NA,150,97375,2631,4e-6,0,0.0143
+WILD Token,WILD,Wild Crypto is a website where you can play games of chance.,-4.37,72,112145,2631,0,0,0.0018
+Unido,UDO,"Unido is a technology ecosystem that addresses the governance, security and accessibility challenges of decentralized applications - enabling enterprises to manage crypto assets and capitalize on DeFi.",23.650000000000002,840674,4443195,2582,7.3e-5,6e-6,0.29560000000000003
+Transcodium,TNS,"A Decentralized Peer-to-Peer Media Editing, Transcoding & Distribution Platform",6.29,3902014,1101271,2562,4e-6,0,0.0146
+ELYSIA,EL,"Elysia connects real estate buyers and sellers around the world. At Elysia, anyone can buy and sell fractions of real estate properties and receive equal ownership interest. $EL is used for various transactions inside the platform and EL is used to pay fees will be burned on a quarterly basis.",2.7,1551646,35562730,2560,3e-6,0,0.013300000000000001
+Open Trading Network,OTN,"Open Trading Network (OTN) – a platform that offers cross-chain technology to unite all blockchain networks and market participants, and ensure their best interests.",NA,0,10436,2540,1e-6,0,0.0052
+Neumark,NEU,"Neufund’s Equity Token Offerings (ETOs) open the possibility to fundraise on Blockchain, with legal and technical framework done for you.",3.4099999999999997,8737,8583534,2536,7.3e-5,6e-6,0.29810000000000003
+GENE TOKEN,PARKGENE," (GENE)Peer to Peer parking ""Airbnb like"" revolution on Blockchain",NA,421,436874,2534,0,0,0.0015
+Float Bank,BANK,A governance token for Float project.,20.93,2732825,47688111,2523,0.163471,0.013199,666.3399999999999
+Bifrost,BFC,Bifrost is a multichain middleware platform that enables developers to create Decentralized Applications (DApps) on top of multiple protocols.,11.07,3824343,81047467,2523,3.3e-5,3e-6,0.1326
+QRL,QRL,The Quantum Resistant Ledger (QRL) aims to be a future-proof post-quantum value store and decentralized communication layer which tackles the threat Quantum Computing will pose to cryptocurrencies.,-5.51,102506,28648738,2509,9.5e-5,8e-6,0.3866
+Ethverse Token,ETHV,"Ethverse is an open, interactive, and decentralized virtual universe built using the Minecraft gaming engine and Ethereum blockchain. Ethverse users own and trade land and assets within the world. Ethverse allows users to engage in immersive experiences and monetize assets & services.",-25.08,1304,1219500,2502,2.7000000000000002e-5,2e-6,0.1118
+BTU Protocol,BTU,Decentralized Booking Protocol,17.77,22492,61313501,2493,1.8700000000000002e-4,1.5000000000000002e-5,0.7639
+CommerceBlock,CBT,Infrastructure company that provides a suite of tools for traditional asset markets to leverage the highly flexible and powerful qualities of blockchain based digital asset protocols,NA,78,300209,2491,0,0,0.0017000000000000001
+Compound Wrapped BTC,cWBTC,"Compound is an open-source protocol for algorithmic, efficient Money Markets on the Ethereum blockchain.",4.29,2006114,8021360,2482,0.24756600000000004,0.019989,1009.13
+CPAY,CPAY,"Cryptopay aims to provide the ability to spend, save, and transact digital
+currencies.",8.49,15,3360346,2452,2.1000000000000002e-5,2e-6,0.08700000000000001
+xSigma,SIG,xSigma Finance is a decentralized stablecoin exchange and a mining platform for liquidity providers. xSigma is launched by world-class developers and backed by a publicly-listed Nasdaq company.,8.12,168057,7580943,2441,3.6599999999999995e-4,3e-5,1.49
+SAN,SAN,"A Better Way to Trade Crypto-Markets - Market Datafeeds, Newswires, and Crowd Sentiment Insights for the Blockchain World",12.139999999999999,91205,18911031,2440,7.199999999999999e-5,6e-6,0.29530000000000006
+Compound Uniswap,cUNI,,10.12,4639010,403194776,2416,1.9800000000000002e-4,1.6000000000000003e-5,0.808
+NPER,NPER,NPER is a project that implements a global IP platform on blockchain main network,-1.9,25961,200708,2371,1e-6,0,0.0029
+YUKI,YUKI,The main concept of 'YUKI' is to develop new economic sphere to meet with demands of assimilation between Cryptocurrency spheres and Local societies.,NA,752,502611,2368,0,0,0
+YoloCash,YLC,A decentralized e-commerce platform builds on blockchain for loyalty rewards.,37.190000000000005,131115,21836,2361,0,0,7e-4
+Aluna,ALN,"Aluna.Social is a gamified social trading terminal able to manage multiple exchange accounts, featuring a transparent social environment to learn from experts and even mirror trades. Aluna's vision is to gamify finance and create the ultimate social trading experience for a Web 3.0 world.",0.6,246226,3212974,2353,5.6000000000000006e-5,4e-6,0.2266
+BAS,BAS,"Basis Cash has two farmable tokens - Basis Cash, a stable coin that seeks to be valued at $1 and Basis Share, an ownership token which receives inflationary rewards from Basis Cash, deriving value from the increased adoption of Basis Cash.",0.39,165328,8856787,2348,0.005289,4.27e-4,21.56
+Matryx,MTX,Matryx is the Collaborative Research & Development Engine of Nanome’s VR toolset.,13.78,459514,9118340,2336,9.6e-5,8e-6,0.3919
+Blocktix,TIX,Aims to connect event organizers with an incentivised community who actively reduce the associated costs of event hosting by up to 90%.,37.04,514,639814,2328,3e-6,0,0.0141
+BITTO,BITTO,"BITTO is a licensed cryptocurrency exchange founded since 2017, with a recent expansion into DeFi in 2020. BITTO is found in more than 20 different cryptocurrency apps and websites and officially accepted in more than 4 international cryptocurrency wallets such as Trust, Enjin, and Coinpayment.",12.89,135537,3334771,2322,8.5e-5,7e-6,0.3445
+DigiPulse,DGPT,Aim to ensure that all digital assets holders and crypto wallet users have ultimate control over who inherits their digital and crypto assets.,NA,0,39157,2304,4e-6,0,0.017300000000000003
+Bionic,BNC,Bionic is an ethereum token created to facilitate the transaction between electronic companies,2.19,3503,20194,2283,0,0,0
+Bodhi Ethereum,BOE,"Bodhi aims to build a credible, autonomous, and global decentralized prediction market platform.",5.159999999999999,4222,1496043,2274,2.5e-5,2e-6,0.101
+ABX Token,ABX,A blockchain powered trading platform that integrates crypto assets from multiple exchanges.,9.94,311,1050175,2244,1.3000000000000001e-5,1e-6,0.0522
+ArtisTurba,ARTIS,ARTIS gives all holders the 'Artis Affiliate Reward Program' (AARP) which entitles ARTIS holders to a pro-rata share of 50% of the trading fee revenue generated on Artis Turba Exchange.,NA,0,150616,2192,1e-6,0,0.0052
+YOYOW,YOYOW,A blockchain based content rewards network,9.7,1824023,6202109,2174,9e-6,1e-6,0.0349
+Better Betting,BETR,The betting crypto-currency that will establish truly decentralized sports betting on the internet.,1.72,34,8208920,2168,1.3000000000000001e-5,1e-6,0.051800000000000006
+BitScreenerToken,BITX,"BitScreener is a trusted real-time crypto-tracking platform, available on Android, iOS and Web. It is now integrating crowdsourcing financial data ecosystem on blockchain.",NA,3509,1118943,2135,2e-6,0,0.0067
+InsurAce,INSUR,"InsurAce is a decentralized insurance protocol, aiming to provide reliable, robust, and carefree DeFi insurance services to DeFi users, with a low premium and sustainable investment returns.",-4.07,2970327,42127079,2108,9.25e-4,7.5e-5,3.77
+Digix Gold Token,DGX,Gold Backed Tokens,1.6500000000000001,256231,4613160,2106,0.015062999999999998,0.001216,61.4
+MCDEX Token,MCB,"Monte Carlo Decentralized Exchange is a crypto trading platform. MCDEX is powered by the Mai Protocol smart contracts deployed on the Ethereum blockchain. The Mai Protocol smart contracts are fully audited by Open Zeppelin, Consensys, and Chain Security.",6.67,2231286,60850562,2105,0.006857,5.54e-4,27.95
+ETH 2x Flexible Leverage Index,ETH2x-FLI,Fully collateralized exposure to 2x ETH using the Flexible Leverage Index methodology.,24.51,31221745,129963775,2084,0.09505699999999999,0.0076749999999999995,387.46999999999997
+RightMesh Token,RMESH,RightMesh is on a mission to connect the next billion users without infrastructure.,5.17,0,212709,2082,1e-6,0,0.003
+Aigang,AIX,Aigang is DAO Insurance Protocol Crowd-sourced insurance pools discovery.,NA,0,86866,2071,1e-6,0,0.003
+Hawala,HAT,"Hawala.Today is a P2P crypto-fiat currency exchange platform that aims to
+allow for near instant and secure exchanges, anywhere in the world.",0.48000000000000004,0,659113,2070,1.12e-4,9e-6,0.4556
+MidasProtocol,MAS,"A smart, secure, user-friendly, multi-coin wallet for all essential crypto needs, from safekeeping, intelligent trading, portfolio management, easy conversion to fiat and spending of cryptocurrencies - MidasProtocol.io",4.78,1804,570976,2062,0,0,0.0018
+ETHGAS,eGAS,Airdrop Service,NA,0,161889,2054,4e-6,0,0.0159
+Furucombo,COMBO,"Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes (a “combo”), then Furucombo bundles all the cubes into one transaction and sends them out.",16.110000000000003,713378,27662822,2053,4.07e-4,3.3e-5,1.6600000000000001
+Token Prometeus Network,PROM,"Prometeus Network fuels people-owned data markets, introducing new ways to interact with data and profit from it. They use a peer-to-peer approach to operate beyond any border or jurisdiction.",11.49,28357780,428015151,2050,0.006459,5.220000000000001e-4,26.330000000000002
+RouletteToken,RLT,Developed and launched the prototype of «European Roulette» game based on Ethereum smart contract.,NA,8,2847,2050,0,0,2e-4
+Huobi BTC,HBTC,"HBTC is a standard ERC20 token backed by 100% BTC. While maintaining the equivalent value of Bitcoin, it also has the flexibility of Ethereum. A bridge between the centralized market and the DeFi market.",4.359999999999999,178039491,1615352471,2038,2.3566069999999995,0.997672,50368
+EZToken,EZT,EZToken aims to be The crypto equivalent to skymiles.,7.06,0,57501,2019,1e-6,0,0.005
+Bitfinex LEO Token,LEO,A utility token designed to empower the Bitfinex community and provide utility for those seeking to maximize the output and capabilities of the Bitfinex trading platform.,1.1400000000000001,6326125,3391731935,1997,8.71e-4,7e-5,3.55
+CRPT,CRPT,Crypterium is building a mobile app that lets users spend cryptocurrency in everyday life.,-13.32,350433,14066293,1990,4.1e-5,3e-6,0.16570000000000001
+DeFiner,FIN,"DeFiner is a non-custodial digital asset platform with a true peer-to-peer network for savings, lending, and borrowing all powered by blockchain technology.",-9.239999999999998,171838,3094581,1987,8e-5,6e-6,0.3256
+Alpha Coin,APC,"Alpha coin is based for the basis of first-class mining, experts were appointed to develop the mining farm",14.15,417,39738,1984,0,0,6e-4
+ARBITRAGE,ARB,"Arbitraging is an arbitrage trading company that specializes in creating sophisticated algorithms (bots) that operate by exploiting the market inefficiency, which, in financial world, is called ARBITRAGE.",NA,0,26375,1974,2e-6,0,0.006500000000000001
+Fitrova,FRV,Fitrova is Revolutionizing the Health & Fitness Industry by Harnessing Blockchain Technology,NA,0,21146,1970,0,0,0
+Block Array,ARY,ARY is an ERC-20 Token that enables access to the FreightTrust Blockchain Platform and Protocol. Freight Trust eliminates the need for physical paper documents in the supply chain industry like bills of lading or letters of credit.,NA,0,2711,1969,0,0,0
+SPF,SPF,"SPF Tokens will also be used to purchase additional services that SportyCo will provide to athletes, sports clubs, investors, and other participants in the ecosystem.",NA,18,37651,1964,0,0,7e-4
+CrowdWizToken,WIZ,Democratize the investing process by eliminating intermediaries and placing the power and control where it belongs - entirely into the hands of investors.,NA,458,4650925,1953,2.3500000000000002e-4,1.9e-5,0.9559000000000001
+MIC,MIC,"Mithril Cash is an algorithmic stablecoin forged from Mithril, a valuable silver-like metal. Users can buy, sell, and provide liquidity for MITH Cash and MITH Shares on SushiSwap.",NA,281572,4333499,1953,6.3e-5,5e-6,0.2565
+Empty Set Dollar,ESD,ESD is a stablecoin built to be the reserve currency of decentralized finance.,18.150000000000002,420490,63202489,1945,3e-5,2e-6,0.12190000000000001
+CEN,CEN,Connecting the Financial World Coinsuper Ecosystem Network,0.73,1076,149639,1924,0,0,0.0015
+wys Token,WYS,"The wys token gives consumers discounts for product views, advertisers access to customers, and retailers new opportunities to increase their sales.",NA,0,10356,1912,0,0,1e-4
+Internxt,INXT,"Launched in 2017, Internxt is working on building a private Internet. Its first service, Internxt Drive, is a decentralized cloud storage service available for individuals and businesses.",9.96,305985,5951145,1909,0.002301,1.8600000000000002e-4,9.38
+Cryptonovae,YAE,Cryptonovae is an all-in-one multi-exchange trading ecosystem to manage digital assets across centralized and decentralized exchanges. It aims to provide a sophisticated trading experience through advanced charting features and trade management.,15.77,44847,2449553,1888,5e-5,4e-6,0.2051
+IBTC,IBTC,IBTC is a tokenized version of Bitcoin build on Ethereum blockchain.,9.12,0,61830,1878,0,0,0.0012000000000000001
+Tokenbox,TBX,TBX is an utility token that providing an access to the platform’s services.,9.850000000000001,73,459092,1825,1e-5,1e-6,0.0409
+TOKPIE,TKP,"Tokpie is the First Cryptocurrency Exchange with BOUNTY STAKES TRADING. TKP holders can get 500% discount on fees, 70% referral bonus, access to the bounty stakes depositing, regular airdrops and altcoins of promising projects, P2P loans with 90% LTV and income from TKP token staking (lending).",2.8099999999999996,30875,126634,1798,1e-6,0,0.0042
+SKILLCOIN,SKILL,"SKILLCOIN is cryptocurrency that enables to objectively prove job career, skills and qualities by blockchain technology.",NA,0,71844,1796,0,0,0
+Posscoin,POSS,Posscoin is an innovative payment network and a new kind of money.,NA,0,449,1796,0,0,0
+FoodCoin,FOOD,"FoodCoin Ecosystem is a blockchain ecosystem, architecturally designed to create a global marketplace of food and agricultural products based on our experience with the active 1000 EcoFarms platform.",NA,2,104208,1794,0,0,4e-4
+AdToken,ADT,adChain is a browser agnostic Ethereum based solution for digital advertising that seamlessly integrates with pre-existing RTB and programmatic industry standards.,-1.57,2407,1251366,1782,0,0,0.0015
+Horse,HORSE,DAPP to bet on the price of cryptocurrencies.,-20.8,43,191889,1776,0,0,0.0018
+RARE.UNIQUE,RARE,Unique One is a non-profit fully decentralized Digital Art NFT Marketplace.,23.32,87208,3661727,1754,3.58e-4,2.9e-5,1.46
+EROSCOIN,ERO,Eroscoin aims to be a platform that empowers & enhances the payment systems.,NA,2,101138,1740,0,0,5e-4
+Geeq,GEEQ,"Geeq is a multi-blockchain platform secured by our Proof of Honesty protocol (PoH), safe enough for your most valuable data, cheap enough for IoT, and flexible enough for any use.",7.88,163943,8601251,1736,2.41e-4,1.9e-5,0.9833
+dForce,DF,"DF is the platform utility token of the dForce network to be used for transaction services, community governance, system stabilizer, incentivization, validator deposit when we migrate to staking model, and etc.",13.44,4378040,73425605,1708,8.400000000000001e-5,7e-6,0.34249999999999997
+Origin Dollar,OUSD,Origin Dollar (OUSD) is a stablecoin that earns yield while it's still in your wallet. It was created by the team at Origin Protocol (OGN).,-3.73,298974,8932242,1701,2.43e-4,2e-5,0.9921
+Katalyo Token,KTLYO,"Katalyo is no-code platform for building hybrid (d)apps. It aims to provide a comprehensive set of no-code tools for building end-to-end applications including but not limited to asset tokenisation, DeFi and NFT.",13.2,4051082,4919172,1696,9.2e-5,7e-6,0.377
+Vortex DeFi,VTX,Vortex DeFi plans to provide its users access to all leading platforms and protocols from a single web-based user interface.,3.7,58262,2284146,1693,2.1000000000000002e-5,2e-6,0.0873
+Vezt,VZT,Vezt is an intellectual property rights marketplace that lets music fans buy rights in their favorite songs.,NA,0,494794,1693,3e-6,0,0.0123
+Qurito,QURO,The online community where you earn for sharing knowledge & ideas.,NA,0,269,1676,0,0,0
+Blockchain Cuties Universe Governance Token,BCUG,Blockchain Cuties Universe is a collectible NFT game that's based around adorable little pets called Cuties that explore the world of Cutieland and fight each other in adventures.,12.42,207182,2867918,1669,0.001016,8.2e-5,4.14
+Ether Kingdoms Token,IMP,"Ether Kingdoms is a new crypto-game with own ERC20 token, IMP. Key features: up to 365% annual POS reward, no ICO, fair Airdrop distribution only, already tradable on several exchanges.",3.8899999999999997,93146,82890,1647,3e-6,0,0.0106
+Privatix,PRIX,Internet Broadband Marketplace powered by P2P VPN Network on Blockchain.,10.59,32954,101701,1642,2.2000000000000003e-5,2e-6,0.0904
+VALID,VLD,Authenticate online using your self-sovereign eID and start monetizing your anonymized personal data.,7.13,509,2697096,1640,2e-6,0,0.0076
+CyberMusic,CYMT,Cyber Music will be the new point of reference for the music market and will be fully developed using the technologies that the blockchain has available.,4.859999999999999,50,163493,1618,0,0,0
+Route,ROUTE,Router Protocol is a crosschain-liquidity aggregator platform that was built to seamlessly provide bridging infrastructure between current and emerging Layer 1 and Layer 2 blockchain solutions.,23.97,1121009,42306288,1596,0.002966,2.39e-4,12.09
+IDEX Membership,IDXM,"IDXM grants holders the ability to reduce their trading fees, increase their trading rewards, or a mixture of both.",NA,730,437373,1592,0.05365000000000001,0.004332,218.69
+Sense,SENSE,"Sense creates blockchain based smart contracts in chat and rewards humans for the contributions they make to one another conversationally, across Sensay and other messenger applications.",22.79,362,8751595,1588,2e-6,0,0.0076
+Volume Network Token,VOL,"With the Proof of Space and Time（PoST) consensus mechanism, Volume Network is an anti-attack cryptocurrency using harddisk for mining.",14.44,1418,1479805,1576,1e-6,0,0.0038
+POPCHAIN CASH,PCH,A brand new blockchain for K-Pop & Asian content market,-8.239999999999998,27,328687,1565,0,0,4e-4
+Fuse Token,FUSE,Fuse is a no-code smart contract platform for entrepreneurs that allows entrepreneurs to integrate everyday payments into their business.,13.129999999999999,31055,18186760,1563,5.3e-5,4e-6,0.21600000000000003
+Behodler.io,EYE,"Behodler is a decentralized exchange powered by token bonding curves, managed by a single contract. Behodler has 1 liquidity token, Scarcity (SCX), and a governance token, Eye, which will be managed by MorgothDAO.",2.4099999999999997,46890,4614840,1562,2.03e-4,1.6000000000000003e-5,0.8288000000000001
+Incodium,INCO,API-based Smart Contract Solution for Exchange Hacking,NA,0,32803,1547,0,0,0
+MasterNet,MASH,"Masternet is a Multi-system Interconnected Financial Platform designed to integrate with other Blockchain projects in need of real users, catering to everyday’s needs of a huge and prosperous community.",1.56,0,10622,1528,0,0,3e-4
+JavaScript,JS,Blockchain platform for programmers on JavaScript,2.17,0,8265,1519,0,0,0.001
+AstroTools.io,ASTRO,"Astrotools is a DeFi dashboard that bridges the information gap between centralized and decentralized exchanges, giving you an analytical edge to supercharge your trading experience.",12.93,9030,4822623,1505,3.95e-4,3.2e-5,1.61
+LendConnect,LCT,Aims to be a passive-income-generating Platform.,NA,0,215641,1504,2.4e-5,2e-6,0.09979999999999999
+Bitether,BTR,Project based on online and offline shopping market all across the globe.,NA,0,50752,1485,0,0,9e-4
+ArbitrageCT,ARCT,Trading crypto-currency terminal for two exchanges simultaneously.,NA,0,100633,1448,0,0,2e-4
+Leverj Gluon,L2,Non-custodial Layer 2 Cryptocurrency Leveraged Exchange offering 100x leverage.,1.1800000000000002,776332,14670707,1428,1.3000000000000001e-5,1e-6,0.0514
+USDQ Stablecoin by Q DAO v1.0,USDQ,"USDQ is a decentralized stable coin, which is backed by bitcoin and pegged to the dollar, so 1 USDQ = $1 USD.",-0.61,8337648,64175,1426,2.45e-4,2e-5,0.9967
+eBitcoinCash,eBCH,Cryptocurrency Trading Platform,NA,0,78778,1426,2e-6,0,0.0085
+Katalyse,KAT,FundYourselfNow is a simple platform to allow project creators/promoters to raise funds for their projects using cryptocurrencies without the need of technical knowledge.,NA,0,202905,1410,5.7e-5,5e-6,0.23120000000000002
+DaTa eXchange Token,DTX,"As a decentralized marketplace for IoT sensor data using Blockchain technology, Databroker DAO enables sensor owners to turn generated data into revenue streams.",1.1700000000000002,4915,14387728,1405,1.6000000000000003e-5,1e-6,0.0639
+QVT,QVT,Sell and buy crypto assets around the world for local payment methods.,NA,0,13304,1382,0,0,0.0018
+REPME,RPM,RPM token is a digital currency used as a medium of exchange and an appreciating store of value,NA,0,114816,1381,0,0,0
+ABLE X Token,ABLX,ABLE Project is the truly Decentralized Crypto Finance Platform.,NA,26,544743,1377,0,0,1e-4
+Pendle,PENDLE,Pendle is essentially a protocol for tokenizing yield and an AMM for trading tokenized yield and other time-decaying assets.,9.38,694016,29159797,1357,4.3200000000000004e-4,3.5000000000000004e-5,1.76
+DePay,DEPAY,Accept and perform crypto payments with DePay. A decentralized payment processor that aims to increase users' crypto conversion.,3.74,611439,950240,1312,9.27e-4,7.5e-5,3.7800000000000002
+GreenMed,GRMD,Use GreenMed to pay at your dispensary and earn tons of rewards,NA,0,1539,1305,0,0,1e-4
+KWHCoin,KWH,KWHCoin is a digital currency that converts renewable distributed energy resources to digital tokens on a unique blockchain.,NA,7726,112377,1299,0,0,0
+TrueFlip,TFL,"Blockchain games with instant payouts and open source code,",27.130000000000003,406,3452448,1279,1.26e-4,1e-5,0.5119
+EagleCoin,EAGLE,Eagle payment system vision is to make cryptocurrency usable and acceptable in any place and for any kind of payment.,NA,0,3457,1275,0,0,0.0017000000000000001
+X8XToken,X8X,X8C is a secure store of value Ethereum token.,1.37,6017,442985,1265,1e-6,0,0.0057
+InterValue,INVE,InterValue is one of the first projects of the Blockchain 4.0 era. It supports the deployment of large-scale applications. InterValue’s double-layer DAG consensus uses sharding and gossip protocol to achieve high transaction concurrency.,NA,54,256521,1257,0,0,0.0019
+Data Transaction Token,XD,"The digital asset, Data Transaction Token, is used to initiate private data transactions by users onto the public Ethereum Blockchain, rendering each transaction immutable.",NA,2051,71615,1239,0,0,3e-4
+Blockchain Certified Data Token,BCDT,"The Blockchain Certified Data Token is the fuel of the EvidenZ ecosystem, a blockchain-powered certification technology.",9.59,17047,8131013,1229,5.2000000000000004e-5,4e-6,0.21390000000000003
+Oiler,OIL,Oiler Protocol provides instruments for trading changes in blockchain protocol parameters.,5.31,2207397,25071072,1214,0.001055,8.5e-5,4.3
+Crystal Clear Token,CCT,Decentralized Service System,-40.379999999999995,0,8087,1212,0,0,0.0014
+GAMESTARS TOKEN,GST,Blockchain platform that helps to monetize cyberathletes' professional advancement,132.17,4,58753,1207,0,0,2e-4
+Somnium Space Cubes,CUBE,"We are an open, social & persistent VR world built on blockchain. Buy land, build or import objects and instantly monetize. Universe shaped entirely by players!",9.84,859074,53912975,1197,0.0010350000000000001,8.400000000000001e-5,4.22
+ZMINE Token,ZMN,ZMINE Token will be available for purchasing and exchanging for GPUs and use our mining services.,NA,0,880321,1190,0,0,0.0014
+CreditBIT,CRB,"The main goal of this project is to develop and maintain crypto currency ecosystem, based on token, that is built on top of Ethereum Blockchain.",NA,38,14376,1187,0,0,9e-4
+PlatonCoin,PLTC,"Platon Finance is a blockchain digital ecosystem that represents a bridge for all the people and business owners so everybody could learn, understand, use and benefit from blockchain, a revolution of technology. See the future in a new light with Platon.",16.979999999999997,565176,33401506,1179,1.3500000000000003e-4,1.1000000000000001e-5,0.5486000000000001
+Bonpay,BON,"Accept, store and send Bitcoin with the Bonpay Wallet. Spend your funds anywhere with Bonpay Card.",NA,2,198736,1150,5e-6,0,0.0208
+SRCOIN,SRCOIN,Patent: Advanced A.I. System Processing & Data Collection,NA,2859,842498,1130,0,0,2e-4
+Frax,FRAX,"Frax is a fractional-algorithmic stablecoin protocol. Frax is open-source, permissionless, and entirely on-chain – currently implemented on Ethereum. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC.",0.32999999999999996,10726292,132155404,1128,2.44e-4,2e-5,0.9964
+GourmetGalaxy,GUM,"Gourmet Galaxy is a Yield Farming platform, a combination of DeFi and NFTs in a gaming experience.",8.77,398888,6914112,1122,5.08e-4,4.1e-5,2.07
+BiFi,BiFi,"BiFi is a multichain DeFi project powered by Bifrost. BiFi will offer multichain wallet, lending, borrowing, staking services, and other financial investments products.",8.07,994156,7444945,1107,1.7e-5,1e-6,0.07100000000000001
+TOP Network,TOP,TOP Network is a decentralized open communication network that provides cloud communication services on the blockchain.,9.360000000000001,724398,20169633,1106,1e-6,0,0.0037
+renDOGE,renDOGE,renDOGE is a one-for-one representation of Dogecoin (DOGE) on Ethereum via RenVM.,46.39,2978581,10903570,1100,1.44e-4,1.2e-5,0.5851
+BOSAGORA,BOA,Transitional token for the BOSAgora platform,-4.609999999999999,882997,78150875,1100,6.3e-5,5e-6,0.2567
+UNIFUND,iFUND,A Mutual Fund Trading Platform for the open creation of trustless social trading groups utilizing Uniswap Protocol Tokens.,NA,5024,1063471,1082,8e-6,1e-6,0.0314
+BZ,BZ,"Digital asset trading exchanges, providing professional digital asset trading and OTC (Over The Counter) services.",-1.49,564292,53965450,1075,1.0400000000000001e-4,8e-6,0.42210000000000003
+BitCoin ONE,BTCONE,"Masternodes, POS and privacy coin",NA,0,4439,1069,0,0,2e-4
+IMPULSEVEN,VEN,"ImpulseVen is a complete decentralized finance ecosystem that offers a range of solutions, including lending, staking, farming, trading and a decentralized exchange all in one suite.",16.68,3094796,1289865,1043,3.73e-4,3e-5,1.52
+Hotbit Token,HTB,Exchange Platform,19.57,139931,42815142,1037,1.6000000000000003e-5,1e-6,0.0639
+INVERSE,XIV,Project Inverse allows users to earn gains from the downward moves of the coins or index being followed in the tracking vaults in the form of additional XIV tokens.,11.450000000000001,256077,1865899,1035,2.4e-5,2e-6,0.0976
+Pylon,PYLNT,P2P Distributed Green Energy Market.,-2.9299999999999997,3,1124704,1023,4.8300000000000003e-4,3.9e-5,1.97
+Flyp.me,FYP,Aims to be an instant crypto exchange that is private and secure.,11.66,9773,730382,1020,1.1000000000000001e-5,1e-6,0.043000000000000003
+AOG,AOG,Smartofgiving (AOG) is an idea-turned-reality that envisioned a unique model to generate funds for charities without asking for monetary donation.,0.1,4336,5490731,1016,1.8e-5,1e-6,0.07440000000000001
+Nexium,NxC,"The Economy of Beyond The Void is based on the Ethereum Blockchain, which can be used with tokens called Nexium.",NA,0,51953,1002,0,0,8e-4
+Change Your Life,AAA,cryptocurrency exchange,130.31,0,5033,954,0,0,3e-4
+Neural Protocol,NRP,"NEURAL PROTOCOL (NRP) is a decentralized blockchain-based
+payment instrument that aims to bring together buyers and sellers in a
+marketplace.",1.73,136,184204,950,0,0,0
+ALICE,ALICE,"My Neighbor Alice is a multiplayer builder game, where anyone can buy and own virtual islands, collect and build items and meet new friends.",15.51,53499880,197007576,941,0.0027700000000000003,2.24e-4,11.29
+SpaceChain,SPC,SpaceChain is a community-based space platform that combines space and blockchain technologies to build the world’s first open-source blockchain-based satellite network.,8.219999999999999,249072,21605832,940,1.8e-5,1e-6,0.0718
+Gimli,GIM,Live stream crypto betting for gamers.,NA,8,42232,940,0,0,5e-4
+Adshares,ADST,"Adshares Network is a decentralized, peer-to-peer market for programmatic advertising. Adshares gives advertisers and publishers ability to trade directly without the need for centralized ad exchanges.",12.27,158503,7739228,939,1.22e-4,1e-5,0.4957
+EthBits ETBS Token,ETBS,"ETHBITS iTrade aims to provide new users with all the information needed to decide whom to follow, including a full profile outlining profit and loss in different time frames and historical graphs of performance.",NA,47,932638,930,1.64e-4,1.3000000000000001e-5,0.6701999999999999
+Divi Exchange Token,DIVX,Digital Currency,5.930000000000001,279727,202635584,923,2.2000000000000003e-5,2e-6,0.08829999999999999
+TieToken,TIE,"A public, distributed and decentralized database with one common thread: trust. Enforced by integrated fault tolerance, incentive schemes and smart contracts.",NA,19,879577,920,5e-6,0,0.021500000000000002
+Sonder,SNR,Overcome the barriers to integration of blockchain-technologies into e-commerce market.,3.06,0,19734,914,0,0,1e-4
+ClinTex,CTI,"Clinical Trials Intelligence is a distributed technology platform that incorporates predictive data analytics, machine learning (AI), and the innovative use of smart contracts to drive significant quality and operational improvements in clinical trials.",9.96,1918951,11513217,909,3.4e-5,3e-6,0.138
+Ruler Protocol,RULER,Ruler Protocol is a lending platform where users can borrow their preferred cryptocurrency with any other cryptocurrency as collateral.,5.14,155347,10141548,904,0.027341999999999998,0.0022080000000000003,111.45
+Welltrado token,WTL,Compare peer to peer lending platforms,NA,0,156574,904,1e-6,0,0.0039
+Viuly Token,VIU,A decentralized video sharing platform,NA,0,55265,902,0,0,1e-4
+Musiconomi,MCI,A global music economy that works for everyone.,NA,0,37823,900,0,0,0.0014
+Dextoken Governance,DEXG,"Dextoken is a DeFi infrastructure and is managed by the DEXG ('Dextoken Governance') holders. Dextoken proposed Speculative AMM, one of the simplest price conversion algorithm, we use Speculative AMM to build a token swap exchange.",-18.810000000000002,14684,938034,886,0.004185,3.38e-4,17.06
+tBTC,TBTC,,1.05,8045958,53986504,879,2.3276579999999996,0.995335,50250
+Suretly,SUR,Suretly is a crowdvouching platform.,2.13,2428,66434,879,7.5e-5,6e-6,0.3053
+FinTab,FNTB,Cryptocurrency Portfolio Tracker,NA,1,8068,864,1e-6,0,0.0026
+imbrex,REX,"A globally connected ecosystem of hyperlocally-curated, validated and highly portable real estate data, where buyers, agents, firms and MLSs can realize the true value of their data.",9.82,0,167723,856,5e-6,0,0.0192
+Dragonglass,DGS,Dragonglass provides a seamless solution for cryptocurrency mining,NA,7,25449,856,0,0,1e-4
+Ethbet,EBET,"The decentralized, peer-to-peer, and provably-fair Ethereum-based dicing game without a house edge.",NA,0,21628,855,1e-6,0,0.0025
+Vodi X,VDX,A Decentralized Ecommerce Ecosystem.,-5.430000000000001,1398,810607,843,0,0,0.0015
+MIS,MIS,"Mithril Cash is an algorithmic stablecoin forged from Mithril, a valuable silver-like metal. Users can buy, sell, and provide liquidity for MITH Cash and MITH Shares on SushiSwap.",-1.54,16017,950147,836,6.5e-4,5.2000000000000004e-5,2.65
+Tadpole,TAD,"Tadpole Finance is an open-source platform providing decentralized finance services for saving and lending. Tadpole Finance is an experimental project to create a more open lending market, where users can make deposits and loans with any ERC20 tokens on the Ethereum network.",-2.54,33217,5807196,790,0.00497,4.0100000000000004e-4,20.259999999999998
+Mover,MOVE,"Mover is a mobile-first financial services app that allows you to trade, store, send, and earn interest on crypto assets in a simple wallet with a debit card.",10.28,67897,2370083,778,1.61e-4,1.3000000000000001e-5,0.6565
+Origami Network,ORI,A protocol for building decentralized marketplaces using the Ethereum blockchain,NA,29,27710,777,2e-6,0,0.0066
+Deri,DERI,"Deri is a decentralized protocol for users to exchange risk exposures precisely and capital-efficiently. It is the DeFi way to trade derivatives: to hedge, to speculate, to arbitrage, all on chain.",8.129999999999999,17306,8682429,767,3.9e-5,3e-6,0.15720000000000003
+DALECOIN,DALC,DaleCoin is an ERC20 token based on the Ethereum blockchain which shall serve as a payment token for goods and services to whoever wishes to accept it.,-45.36,10,19600,767,5e-6,0,0.0207
+Intelligent Trading Foundation,ITT,"Applying artificial intelligence and technical analysis, our fleet of data bots follow real-time data sources and send you actionable alerts for success in cryptocurrency markets.",4.48,36558,39787,766,1e-6,0,0.0041
+BitMax token,BTMX,Digital asset trading platform,1.05,1323595,569169669,754,1.8700000000000002e-4,1.5000000000000002e-5,0.7632
+Ccore,CCO,Crypto Payment Platform,-3,320,75697,748,1.1000000000000001e-5,1e-6,0.0445
+Embers,EMB,A decentralized creative commerce platform.,NA,0,36918,742,0,0,7e-4
+POA ERC20 on Foundation,POA20,POA Network is an Ethereum-based platform that offers an open-source framework for smart contracts.,11.450000000000001,426849,21829565,736,1.8e-5,1e-6,0.07520000000000002
+HeartBout,HB,HeartBout is a social network based on the blockchain technology with a decentralized system to encourage user activity.,15.11,2351,104295,736,1e-6,0,0.0056
+Voice Token,VOICE,Voice is the governance token of Mute.io that makes cryptocurrency and DeFi trading more accessible to the masses.,8.51,11200,4092799,735,0.028578000000000003,0.002307,116.49000000000001
+ICOS,,"ICOS Platform is your crypto crowdsale platform — easily discover & get tokens from upcoming, ongoing, and past campaigns",NA,4647,465979,735,4.24e-4,3.4e-5,1.73
+DA Power Play,DPP,Algorithmic trading platform,NA,2,5268,726,0,0,3e-4
+pTokens BTC,pBTC,Cross-chain DeFi composability.,3.77,149102,34938255,725,2.4660219999999997,0.006507000000000001,50814.001
+VeriSafe,VSF,"VeriSafe aims to be the catalyst for projects, exchanges and communities to collaborate, creating an ecosystem where transparency, accountability, communication, and expertise go hand-in-hand to set a standard in the industry.",5.03,2,4123127,677,0,0,5e-4
+FERA,FERA,FERA offers an antidote to misinformation and false promises with reports on new coins backed by data science and composed by an experienced team of financial analysts.,13,16681,4364227,670,5e-6,0,0.0218
+ACE,ACE,"ACE is a utility token, that serves as a form of access to the TokenStars platform and its internal currency.
+TokenStars is the first talent management platform on the blockchain, that will connect talents & celebrities with fans and advertisers.",NA,24,62788,659,3e-6,0,0.0106
+WTT,WTT,Full-service mining solution provider.,NA,9,227551,649,9e-6,1e-6,0.0356
+HAC Token,HAC,(“HACKSPACE”) is a fund based platform that finances innovative hardware startup teams with cutting edge products and technologies.,4.4,0,488315,649,0,0,0.0017000000000000001
+Vikky Token,VIKKY,VIKKY is the leading short-term employment application.,NA,2193,48289,649,0,0,0
+CoinBene Coin,CONI,,2.88,1844711,1827388,642,1e-5,1e-6,0.0412
+Component,CMP,"The Component is a community fork of Shell protocol and includes all its flexibility settings with an additional admin fee feature, which will allow collecting % of the base fee from all core pools and distribute it among Component protocol governance token stakers.",36.09,283944,9440422,613,0.0025440000000000003,2.0500000000000002e-4,10.370000000000001
+OwnData,OWN,Owndata is a crypto marketplace for data sellers and buyers.,NA,0,1940559,594,0,0,2e-4
+COS,COS,"One-stop shop for all things crypto: an exchange, an e-wallet which supports a broad variety of tokens, a platform for ICO launches and promotional trading campaigns, a fiat gateway, a market cap widget, and more",NA,0,1164194,584,1e-6,0,0.0059
+Inmediate,DIT,The Smart Insurance Platform,15.78,166,2195553,568,1e-6,0,0.0046
+GamyFi,GFX,"GamyFi is an E-Sports and gaming ecosystem containing a fantasy sports app, prediction market, lottery, PVP games, and NFT marketplace. GFX token plays a major role in the platform and is used for payments for the pools and to incentivize skillful players.",7.51,1887204,2198154,564,5.13e-4,4.1e-5,2.09
+Crypto Daily Token,CRDT,"CRDT aims to give users a complete crypto banking solution at their fingertips. The team is dedicated to bringing together a diverse crypto ecosystem with a one-stop solution for the transfer of value. CRDT supports fiat, cryptocurrencies, and third-party payment cards issued by banks or others.",5.34,893076,217638,561,7e-6,1e-6,0.027
+Fidelium Token,FID,Cross-Exchange Trading Platform,NA,0,265656,559,1e-6,0,0.0023
+Bundles,BUND,Bundles is a DEFI project that challenges token holders against each other to own the most $BUND.,7.54,6749,1204220,534,0.003506,2.8300000000000005e-4,14.29
+Snetwork,SNET,Distributed Shared Cloud Computing Network,1.1600000000000001,511915,2387224,509,3e-6,0,0.0103
+StarCredits,STRC,Pariticipants can use a blockchain token to interact with the story on a deeper level.,NA,0,381573,501,2.1000000000000002e-5,2e-6,0.0848
+Jetcoin,JET,"Jetcoin Institute manages the distribution process of the digital fuel, Jetcoin (JET), via Jetcoin Contracts and proof of social engagement (P.O.S.E.)",11.67,2265586,813584,500,2e-5,2e-6,0.0833
+Quantum,QAU,Quantum aims to be a deflationary currency.,14.39,0,3403039,494,1.1000000000000001e-5,1e-6,0.0455
+NFT INDEX,NFTI,The NFT Index is a digital asset index designed to track tokens’ performance within the NFT industry. The index is weighted based on the value of each token’s circulating supply.,14.129999999999999,31677,1707732,474,0.187856,0.015167999999999997,765.7405
+Bolenum,BLN,Bolenum is a cryptocurrency and financial services provider targeting the African continent.,NA,0,1658,453,0,0,0
+Stacker Ventures Token,STACK,"Stacker Ventures is a community-run protocol for initiating and managing pooled capital on the Ethereum blockchain. Structured as a DAO, Stacker Ventures initiates decentralized funds and accelerates portfolio investments through an involved community.",2.84,18582,1819079,433,0.005876,4.7400000000000003e-4,23.95
+ABCC Token,AT,A cryptocurrency exchange.,NA,101,1020272,429,5e-6,0,0.0223
+Billionaire Token,XBL,Decentralized games on the blockchain.,NA,1,27634,425,2e-6,0,0.0083
+BitAsean,BAS,BitAsean is Ethereum-based Token. Their aim is for BitAsean to be the cryptocurrency of the ASEAN region.,NA,9,4484,420,0,0,0.0011
+aXpire,AXPR,"The aXpire project is comprised of a number of business-to-business (B2B) software platforms as well as business-to-consumer (B2C) applications. As its mission, aXpire is focused on software for businesses that helps them automate outdated tasks, increasing efficiency, and profitability.",-0.81,76955,7346661,416,6e-6,1e-6,0.026300000000000004
+QUINADS,QUIN,Quinads is an advertisement platform with blockchain based and allows users to socially interact and rewarded by cryptocurrency.,NA,3758,1172076,405,0,0,1e-4
+IcoBay,IBT,Digital marketing and advertising platform or ICOs,NA,0,9313,401,0,0,0
+DUO Network Token,DUO,"A decentralized platform enabling issuance, trading, and settlement of tokenized digital derivatives.",NA,0,99700,390,1e-6,0,0.0027
+EZOOW,EZW,"EZOOW is the easy way for travel , it is a blockchain booking solution that facilitate booking all travel.",NA,2,274295,387,0,0,0
+Cryptrust,CTRT,Cryptrust is a Decentralized Trust-Based social platform for the cryptocurrency ecosystem.,NA,0,291023,386,0,0,0
+NEXT,NEXT,A hybrid exchange registered as an N. V. (Public company) in the Netherlands and provides fiat pairs to all altcoins on its platform,-36.14,4860,944998,380,1.5000000000000002e-5,1e-6,0.060899999999999996
+GoldenRatio,GRT,The GoldenRatio Token (GRT) project is an experiment to prove the importance of a quality community for a crypto-related project.,0.59,21413,24015,375,3.7999999999999997e-4,3.1e-5,1.55
+Aave interest bearing CRV,aCRV,,9.6,608619709,1275042246,365,8.810000000000001e-4,7.099999999999999e-5,3.59
+XPlay,XPA,XPA aims to seamlessly bridges the gap between cryptocurrency and real world assets,NA,0,286747,335,1e-6,0,0.005
+Cream ETH 2,CRETH2,Cream.Finance offers flexible stake ETH with C.R.E.A.M. for Eth2.,11.89,244796,95847044,333,0.935837,0.07556000000000002,3814.66
+DRP Utility,DRPU,"DCORP is represented by two tokens, DRPU and DRPS. The holders of these tokens are the collective owners of DCORP, have voting power and are entitled to multiple benefits through DCORP.",NA,0,432105,333,3e-5,2e-6,0.12240000000000001
+BrokerNekoNetwork,BNN,"BrokerNeko Network provides rational, quick and easy solutions for individual and institutional transactions with its own unique system.",NA,0,951,328,0,0,0
+WIKI Token,WIKI,"The wiki token will be essential to the ecosystem of Crypto University – BitcoinWiki.org's unbiased, propaganda-free educational project.",-8.49,113,285964,324,2.77e-4,2.2000000000000003e-5,1.1300000000000001
+Soniq Token,SONIQ,The Soniq project mission is using the innovative blockchain technology to support and connect people who want to be a part of the music world and monetize their favorite hobby.,NA,107,10333,288,0,0,2e-4
+Blockium Token,BOK,A P2P platform that allows traders to execute trading commands in a gamified environment.,NA,0,2855183,283,1e-6,0,0.0044
+PayFair Token,PFR,PAYFAIR is a decentralized Escrow platform and p2p exchange.,NA,179,52547,282,0,0,6e-4
+PASS Token,PASS,WisePass is a lifestyle platform offering daily privileges to its members. PASS Token will facilitate the access to WisePass lifestyle memberships. It will allow its users to transact real services.,NA,0,98302,273,2e-6,0,0.0069
+UselessEthereumToken,UET,The world's first 100% honest Ethereum ICO.,NA,0,53240,270,3e-6,0,0.0134
+ITL,Italian Lira, (ITL)ITL (Italian Lira) is a Token (asset) crypto-currency without the control of banks or governments.,4.4,27,123225,243,0,0,0
+HELP,HELP,Decentralized Fundraising Platform & Advanced Distributed Edge Network,4.359999999999999,991,66300,209,0,0,0.0015
+Rapids,RPD,Fast and secure payments across social media via blockchain technology,NA,0,1683759,205,0,0,2e-4
+Arcade,ARC,"RIDESHARING - Arcade City is peer-to-peer everything — with networks built
+by local communities, not corporations.",NA,0,6328271,188,0.001054,8.5e-5,4.2954
+Speed Mining Service,SMS,A diversified virtual currency mining operation.,NA,2,94,185,5.3e-5,4e-6,0.21760000000000002
+HarmonyOne,ONE,A project to scale trust for billions of people and create a radically fair economy.,14.39,100425629,1122575467,184,2.9e-5,2e-6,0.1174
+Veros,VRS,"VEROS Fundraising Platform is an optimized platform aimed at fundraising for direct charity, eco-high-tech projects, and revolutionary innovation.",NA,0,227144,180,4.5e-5,4e-6,0.185
+renZEC,renZEC,renZEC is a one-for-one representation of ZEC on Ethereum via RenVM.,8.61,102104,3794915,178,0.07656600000000002,0.006182000000000001,312.1
+BGGToken,BGG,GG is the token issued by Bgogo platform which is the proof of stake for the trading infrastructure.,-0.24000000000000002,61177,600854,173,0,0,6e-4
+DOW,dow,Dowcoin is a share's of Dow blockchain technology.,NA,14,8282,156,0,0,7e-4
+SPARTA,SPARTA,"SPARTA token is to be used inside the 300 startups as a kind of credits if the application is a non blockchain application, or as a utility token/precursor to other tokens if it is a blockchain application.",11.62,372,47474,152,4e-6,0,0.015799999999999998
+CONNECT,CNCT,Connect platform is a user-friendly crowdfunding service. Connecting investors with projects and projects with professional resources.,NA,0,46117,148,0,0,6e-4
+Almeela,KZE,The Almeela token is a blockchain-based decentralized funding platform(Almee Up) for high tech projects that is backed by physical gold.,NA,0,346936,147,2.3000000000000003e-5,2e-6,0.0929
+Etheriya,RIYA,AN Ethereum Token Backed Micro & Macro Freelance Marketplace.,NA,0,132,139,0,0,1e-4
+Wirex Token,WXT,Wirex is a worldwide digital payment platform and regulated institution endeavoring to make digital money accessible to everyone. XT is a utility token and used as a backbone for Wirex's reward system called X-Tras: https://wirexapp.com/x-tras.,10.4,4425456,33895773,125,4e-6,0,0.0146
+renBCH,renBCH,renBCH is a one-for-one representation of BCH on Ethereum via RenVM.,4.85,7431,758213,94,0.331522,0.026767000000000003,1351.35
+Wrapped Filecoin,WFIL,Wrapped Filecoin is an Ethereum based representation of Filecoin.,6.58,1371801678,8302733477,88,0.028815999999999998,0.002327,117.46000000000001
+Agrolot Token,AGLT,The Agrolot Project is a decentralized B2B platform for agricultural crops and food products trading and is currently running a crowdfunding campaign built on Blockchain technology featuring Smart Contracts use.,NA,24,343,82,0,0,0
+Wrapped Celo,wCELO,"Wrapped Celo is a 1:1 equivalent of Celo. Celo is a utility and governance asset for the Celo community, which has a fixed supply and variable value. With Celo, you can help shape the direction of the Celo Platform.",-3.22,69102059,451544551,76,0.001131,9.1e-5,4.609999999999999
+Partner,PRC,Pipelines valve production.,NA,0,4454330,67,0,0,6e-4
+Mithril Ore,MORE,"Mithril Ore is a Casper Ethereum Staking Pool. Participation in Casper may be limited due to complexity, network-congestion, and/or lack of funds. This token allows participation by resolving these variables.",NA,0,169701,55,0.0031989999999999996,2.58e-4,13.040099999999999
+Coimatic 3.0,CTIC3,A global decentralized blockchain deal and discount marketplace.,NA,0,1034,52,0,0,5e-4
+BGBP,BGBP,"Binance Jersey provides secure and reliable trading of the Euro (EUR) and British Pound (GBP) with Cryptocurrencies, in addition to digital asset management services to users from around the world.",NA,167712,972146,49,3.41e-4,2.8000000000000003e-5,1.3900000000000001
+ProBit Token,PROB,Global and secure marketplace for digital assets.,2.2,496024,28120334,37,1.4500000000000003e-4,1.2e-5,0.5909
+Nuls,NULS,"NULS is a blockchain built on an infrastructure optimized for customized services through the use of micro-services. The NULS blockchain is a public, global, open-source community project. NULS uses the micro-service functionality to implement a highly modularized underlying architecture.",9.61,77034239,115533680,34,2.5e-4,2e-5,1.02
+HYDRO TOKEN,HYDRO,"Hydro is a decentralized ecosystem using cutting-edge cryptography to secure user accounts, identities, and transactions. Multi-chain protocols securing the web3 reality.",16.77,208958,1255849,12,1.2e-5,1e-6,0.0477
+Wrapped Celo USD,wCUSD,Wrapped Celo Dollars are a 1:1 equivalent of Celo Dollars. cUSD (Celo Dollars) is a stable asset that follows the US Dollar.,0.38,127240,48338777,6,2.45e-4,2e-5,0.9991
+Wrapped Decentraland MANA,wMANA,The Wrapped MANA token is not transferable and has to be unwrapped 1:1 back to MANA to transfer it. This token is also not burnable or mintable (except by wrapping more tokens).,10.15,162087631,1731618900,0,3.19e-4,2.6000000000000002e-5,1.3
